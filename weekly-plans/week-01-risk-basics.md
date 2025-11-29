@@ -64,7 +64,7 @@ By the end of this week, you will be able to:
 - Standards Australia handbook HB203:2012 Managing environment-related risk
 illustrates how to implement AS/NZS ISO 31000.
 - There is a distinction between governmental compliance (enviro and health regulations etc). risk and enterprise risk (market volatility, operational risks, etc). 
- - Will be owned by different departments, but should understand both
+  - Will be owned by different departments, but should understand both
 - COSO Enterprise Risk Management (2017) - Provides a comprehensive model linking risk, strategy, and performance. It focuses on governance, risk appetite, performance measurement, information and communication, and continuous monitoring.
 
 ---
