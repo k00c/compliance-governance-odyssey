@@ -61,7 +61,7 @@ Focus on governance and compliance topics relevant to the WA resource sector:
 - Digital and Data Governance
 - Environmental and Safety Compliance
 - Stakeholder Engagement
-- ERP Systems for Mining (SAP S/4HANA, Oracle ERP Cloud) - commonly used at BHP and Rio Tinto
+- ERP Systems Fundamentals - core principles, structure, terminology, and workflows of enterprise resource planning systems used in mining (focus on freely accessible learning resources to build familiarity with concepts applicable to major industry platforms)
 
 ## File Naming Conventions
 
