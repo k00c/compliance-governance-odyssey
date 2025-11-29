@@ -28,10 +28,10 @@ By the end of this week, you will be able to:
 **Time Allocation:** 2-3 hours
 
 **Tasks:**
-- [ ] Read ISO 31000 Risk Management Guidelines overview
-- [ ] Learn key terminology: risk, hazard, likelihood, consequence, risk appetite, risk tolerance
-- [ ] Understand the risk management framework components
-- [ ] Take notes on core principles
+- [x] Read ISO 31000 Risk Management Guidelines overview
+- [x] Learn key terminology: risk, hazard, likelihood, consequence, risk appetite, risk tolerance
+- [x] Understand the risk management framework components
+- [x] Take notes on core principles
 
 **Resources:**
 - ISO 31000:2018 Risk Management Guidelines (executive summary)
