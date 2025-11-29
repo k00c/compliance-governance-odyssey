@@ -18,8 +18,6 @@ This repository tracks my structured learning journey and practical artifact cre
 │   ├── case-studies/
 │   └── audit-reports/
 ├── certifications/        # Certificates earned, with scanned badges or links
-├── networking/             # Logs of networking activities and reflections
-├── job-applications/       # Tailored resumes, cover letters, and application notes
 └── resources/              # Reference materials, templates, and useful links
 ```
 
@@ -30,10 +28,6 @@ This repository tracks my structured learning journey and practical artifact cre
 **Artifacts:** Save your completed work in the appropriate subfolder under `artifacts/` with clear filenames and dates.
 
 **Certifications:** Upload certificates or links here to track progress.
-
-**Networking:** Log events, webinars, LinkedIn posts, and reflections to show engagement.
-
-**Job Applications:** Store tailored resumes and cover letters for different roles.
 
 **Resources:** Keep templates, reading PDFs, and course links for easy access.
 
