@@ -66,6 +66,7 @@ illustrates how to implement AS/NZS ISO 31000.
 - There is a distinction between governmental compliance (enviro and health regulations etc). risk and enterprise risk (market volatility, operational risks, etc). 
   - Will be owned by different departments, but should understand both
 - COSO Enterprise Risk Management (2017) - Provides a comprehensive model linking risk, strategy, and performance. It focuses on governance, risk appetite, performance measurement, information and communication, and continuous monitoring.
+  - https://www.coso.org/_files/ugd/3059fc_61ea5985b03c4293960642fdce408eaa.pdf
 
 ---
 
