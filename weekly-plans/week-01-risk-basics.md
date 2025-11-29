@@ -39,9 +39,6 @@ By the end of this week, you will be able to:
 
 **Deliverable:** Vocabulary flashcards or summary notes on key terms
 
-**Learning Notes:** 
-- 
-
 ---
 
 ### Day 2: Risk Identification Techniques
