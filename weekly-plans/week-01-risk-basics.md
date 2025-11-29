@@ -67,6 +67,8 @@ illustrates how to implement AS/NZS ISO 31000.
   - Will be owned by different departments, but should understand both
 - COSO Enterprise Risk Management (2017) - Provides a comprehensive model linking risk, strategy, and performance. It focuses on governance, risk appetite, performance measurement, information and communication, and continuous monitoring.
   - https://www.coso.org/_files/ugd/3059fc_61ea5985b03c4293960642fdce408eaa.pdf
+- governmental compliance is a must do to get and hold mining license, ERM is for mature orgs to implement to ensure profitability and org longevity.
+
 
 ---
 
