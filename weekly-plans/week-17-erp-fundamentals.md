@@ -95,7 +95,7 @@ By the end of this week, you will be able to:
 - [ ] Document your ERP navigation experience
 
 **Free ERP Learning Environment Access Guide:**
-1. **SAP Learning Hub (Free Tier):** Register at learning.sap.com with a free account. Access the "SAP Basics" learning journey which includes sandbox navigation exercises.
+1. **SAP Learning Hub (Free Tier):** Register at learning.sap.com with a free account. Access available free learning journeys for ERP basics and navigation exercises.
 2. **Microsoft Dynamics 365 Trial:** Sign up for a free 30-day trial at dynamics.microsoft.com/try. No credit card required for evaluation.
 3. **Alternative - YouTube Demonstrations:** If direct access is unavailable, use detailed walkthrough videos on YouTube (search "SAP GRC demo" or "Dynamics 365 compliance tour") to observe ERP navigation and document key observations.
 
@@ -277,10 +277,10 @@ By the end of this week, you will be able to:
    - Implementation approach
 
 4. Cost-Benefit Analysis
-   - Implementation costs (use industry benchmarks: software licensing typically $100-500k, consulting $200-800k for mid-size implementations, training $20-50k)
+   - Implementation costs (use industry benchmarks: software licensing typically $100,000-$500,000, consulting $200,000-$800,000 for mid-size implementations, training $20,000-$50,000)
    - Ongoing operational costs (typically 15-20% of implementation cost annually)
    - Quantified benefits (efficiency gains, risk reduction - use percentage estimates based on industry studies)
-   - ROI calculation and payback period (use simple ROI formula: (Benefits - Costs) / Costs × 100)
+   - ROI calculation and payback period (use simple ROI formula: ((Benefits - Costs) / Costs) × 100)
    
    *Cost Estimation Guidance:* 
    - Research published case studies and analyst reports for benchmarks
