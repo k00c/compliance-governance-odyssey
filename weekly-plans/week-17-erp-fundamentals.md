@@ -88,18 +88,23 @@ By the end of this week, you will be able to:
 **Time Allocation:** 3-4 hours
 
 **Tasks:**
-- [ ] Access SAP Learning Hub or free trial environments
-- [ ] Complete introductory SAP navigation exercises
-- [ ] Explore compliance transaction codes and reports
-- [ ] Practice running standard compliance reports
+- [ ] Access one of the free ERP learning environments (see access guide below)
+- [ ] Complete introductory ERP navigation exercises
+- [ ] Explore compliance-related screens and reports
+- [ ] Practice navigating through menu structures
 - [ ] Document your ERP navigation experience
 
-**Resources:**
-- SAP Learning Hub (free tier)
-- Microsoft Dynamics 365 trial environment
-- ERP simulation/sandbox environments
+**Free ERP Learning Environment Access Guide:**
+1. **SAP Learning Hub (Free Tier):** Register at learning.sap.com with a free account. Access the "SAP Basics" learning journey which includes sandbox navigation exercises.
+2. **Microsoft Dynamics 365 Trial:** Sign up for a free 30-day trial at dynamics.microsoft.com/try. No credit card required for evaluation.
+3. **Alternative - YouTube Demonstrations:** If direct access is unavailable, use detailed walkthrough videos on YouTube (search "SAP GRC demo" or "Dynamics 365 compliance tour") to observe ERP navigation and document key observations.
 
-**Deliverable:** Screenshots and documentation of ERP navigation exercises
+**Resources:**
+- [SAP Learning Hub Free Registration](https://learning.sap.com/)
+- [Microsoft Dynamics 365 Free Trial](https://dynamics.microsoft.com/en-au/free-trial/)
+- ERPSim (educational ERP simulation - check if available through university partnerships)
+
+**Deliverable:** Screenshots and documentation of ERP navigation exercises (or detailed notes from video demonstrations if direct access unavailable)
 
 ---
 
@@ -162,20 +167,20 @@ By the end of this week, you will be able to:
 
 ### Essential Reading
 
-| Resource | Type | Time | Priority |
-|----------|------|------|----------|
-| SAP ERP Introduction Guide | Guide | 2 hrs | High |
-| Oracle Cloud GRC Overview | Documentation | 1-2 hrs | High |
-| ERP Implementation in Mining Sector | Article | 1 hr | High |
-| Dynamics 365 Compliance Features | Guide | 1 hr | Medium |
+| Resource | Type | Time | Priority | Link |
+|----------|------|------|----------|------|
+| SAP Learning Journey: Discover SAP | Guide | 2 hrs | High | [learning.sap.com](https://learning.sap.com/learning-journeys/discover-sap) |
+| Oracle Cloud GRC Product Tour | Documentation | 1-2 hrs | High | [oracle.com/grc](https://www.oracle.com/au/erp/risk-management/) |
+| Mining Sector ERP Case Studies | Article | 1 hr | High | Search vendor case study libraries |
+| Dynamics 365 Finance Compliance | Guide | 1 hr | Medium | [Microsoft Learn](https://learn.microsoft.com/en-us/dynamics365/finance/) |
 
 ### Supplementary Reading
 
-| Resource | Type | Time | Priority |
-|----------|------|------|----------|
-| COBIT Framework and ERP | Framework | 2 hrs | Medium |
-| ERP Security and Access Controls | Article | 1 hr | Medium |
-| Digital Transformation in Mining | Article | 1 hr | Medium |
+| Resource | Type | Time | Priority | Link |
+|----------|------|------|----------|------|
+| COBIT 2019 Framework Introduction | Framework | 2 hrs | Medium | [isaca.org](https://www.isaca.org/resources/cobit) |
+| ERP Security Best Practices | Article | 1 hr | Medium | Search on ERP Focus or Gartner |
+| Digital Transformation in Mining | Article | 1 hr | Medium | [McKinsey Mining Insights](https://www.mckinsey.com/industries/metals-and-mining) |
 
 ### Online Resources
 
@@ -224,10 +229,12 @@ By the end of this week, you will be able to:
 **Requirements:**
 1. Define at least 10 compliance KPIs with:
    - KPI name and description
-   - Data source (ERP module/table)
-   - Calculation methodology
-   - Target/threshold values
-   - Alert triggers
+   - Data source (conceptual ERP module, e.g., "Environmental Management Module" or "Safety Incident Database")
+   - Calculation methodology (how to derive the metric)
+   - Target/threshold values (industry benchmarks or reasonable targets)
+   - Alert triggers (when should action be taken)
+
+   *Note: You do not need access to actual ERP database tables. Use conceptual data sources based on understanding of ERP module functions.*
 
 2. Create dashboard wireframes showing:
    - Executive summary view
@@ -270,10 +277,16 @@ By the end of this week, you will be able to:
    - Implementation approach
 
 4. Cost-Benefit Analysis
-   - Implementation costs (software, consulting, training)
-   - Ongoing operational costs
-   - Quantified benefits (efficiency gains, risk reduction)
-   - ROI calculation and payback period
+   - Implementation costs (use industry benchmarks: software licensing typically $100-500k, consulting $200-800k for mid-size implementations, training $20-50k)
+   - Ongoing operational costs (typically 15-20% of implementation cost annually)
+   - Quantified benefits (efficiency gains, risk reduction - use percentage estimates based on industry studies)
+   - ROI calculation and payback period (use simple ROI formula: (Benefits - Costs) / Costs × 100)
+   
+   *Cost Estimation Guidance:* 
+   - Research published case studies and analyst reports for benchmarks
+   - Clearly state assumptions and sources for estimates
+   - Present ranges rather than precise figures to reflect uncertainty
+   - Focus on demonstrating analytical thinking rather than precision
 
 5. Implementation Roadmap
    - Phased approach timeline
