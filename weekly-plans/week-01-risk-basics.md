@@ -57,6 +57,16 @@ By the end of this week, you will be able to:
 
 **Deliverable:** List of risk identification methods with pros/cons summary
 
+**Learning Notes:**
+- https://www.wa.gov.au/system/files/2025-06/risk-assessment-for-assurance-activities.pdf
+- section 10 https://www.wa.gov.au/system/files/2023-05/guideline-assessment-and-management-of-contaminated-sites.pdf
+- https://www.health.wa.gov.au/Articles/F_I/Health-risk-assessment
+- Standards Australia handbook HB203:2012 Managing environment-related risk
+illustrates how to implement AS/NZS ISO 31000.
+- There is a distinction between governmental compliance (enviro and health regulations etc). risk and enterprise risk (market volatility, operational risks, etc). 
+ - Will be owned by different departments, but should understand both
+- COSO Enterprise Risk Management (2017) - Provides a comprehensive model linking risk, strategy, and performance. It focuses on governance, risk appetite, performance measurement, information and communication, and continuous monitoring.
+
 ---
 
 ### Day 3: Risk Assessment and Analysis
