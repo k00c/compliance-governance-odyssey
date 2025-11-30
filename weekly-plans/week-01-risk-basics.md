@@ -46,10 +46,10 @@ By the end of this week, you will be able to:
 **Time Allocation:** 2-3 hours
 
 **Tasks:**
-- [ ] Learn risk identification methods (brainstorming, SWOT, checklists, interviews)
-- [ ] Study risk categorization: strategic, operational, financial, compliance, environmental
-- [ ] Review WA resource sector common risk categories
-- [ ] Practice identifying risks from a sample project scenario
+- [x] Learn risk identification methods (brainstorming, SWOT, checklists, interviews)
+- [x] Study risk categorization: strategic, operational, financial, compliance, environmental
+- [x] Review WA resource sector common risk categories
+- [x] Practice identifying risks from a sample project scenario
 
 **Resources:**
 - WA Department of Mines, Industry Regulation and Safety (DMIRS) risk guidance documents
