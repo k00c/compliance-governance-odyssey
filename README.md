@@ -514,3 +514,39 @@ This repository tracks my structured learning journey and practical artifact cre
 
 **Reflection & Notes:**
 - Journal entry on software tool usage and project management insights.
+
+---
+
+### Week 17: ERP Systems and Compliance Integration
+
+**Learning Objectives:**
+- Explain what ERP systems are and their role in organizational governance.
+- Understand how ERP modules support compliance and risk management functions.
+- Navigate common ERP systems (SAP, Oracle, Microsoft Dynamics) at a conceptual level.
+- Configure compliance-related workflows and controls within ERP environments.
+- Create portfolio artifacts demonstrating ERP compliance integration skills.
+
+**Readings & Resources:**
+- SAP ERP Introduction Guide and SAP GRC documentation.
+- Oracle Cloud GRC Overview and Risk Management Cloud features.
+- Microsoft Dynamics 365 Compliance Center guides.
+- Case studies on ERP implementations in Australian mining companies.
+
+**Courses:**
+- SAP ERP Essential Training (LinkedIn Learning / SAP Learning Hub).
+- Microsoft Dynamics 365 Fundamentals (free learning path).
+- Vendor webinars on GRC solutions.
+
+**Practical Projects:**
+- Design a compliance monitoring dashboard specification with KPIs.
+- Develop a business case for GRC module implementation.
+- Create a role-based access control (RBAC) matrix for compliance functions.
+
+**Deliverables:**
+- ERP compliance dashboard design document saved in `artifacts/dashboards/`.
+- ERP GRC implementation business case saved in `artifacts/case-studies/`.
+- Access control matrix saved in `artifacts/compliance-checklists/`.
+- ERP vocabulary glossary and vendor comparison summary.
+
+**Reflection & Notes:**
+- Journal entry on ERP skills development and portfolio building for hiring managers.
