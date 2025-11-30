@@ -538,11 +538,13 @@ Use this section to track your milestone completion:
 
 | Milestone | Target Week | Status | Date Completed |
 |-----------|-------------|--------|----------------|
-| 1. Regulatory Gap Analysis | Week 3-4 | [ ] Not Started | |
-| 2. Incident Investigation | Week 6 | [ ] Not Started | |
-| 3. Compliance Dashboard | Week 8 | [ ] Not Started | |
-| 4. Internal Audit Program | Week 9-10 | [ ] Not Started | |
-| 5. Stakeholder Communication | Week 11-12 | [ ] Not Started | |
+| 1. Regulatory Gap Analysis | Week 3-4 | Not Started | |
+| 2. Incident Investigation | Week 6 | Not Started | |
+| 3. Compliance Dashboard | Week 8 | Not Started | |
+| 4. Internal Audit Program | Week 9-10 | Not Started | |
+| 5. Stakeholder Communication | Week 11-12 | Not Started | |
+
+**Status Options:** Not Started → In Progress → Complete
 
 ---
 

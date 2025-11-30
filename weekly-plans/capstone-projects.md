@@ -791,9 +791,11 @@ Consider these factors when selecting which capstone(s) to complete:
 
 ## Portfolio Assembly
 
-After completing capstone(s), assemble your portfolio:
+After completing capstone(s), assemble your portfolio for presenting to prospective employers. This is a suggested structure separate from this repository's internal organization:
 
-### Digital Portfolio Structure
+### Suggested Digital Portfolio Structure
+
+When you are ready to present your work to employers, consider creating a separate portfolio repository or document with this structure:
 
 ```
 compliance-portfolio/
