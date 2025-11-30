@@ -10,7 +10,9 @@ This repository tracks my structured learning journey and practical artifact cre
 ├── weekly-plans/           # Weekly learning plans with readings, courses, and projects
 │   ├── week-01-risk-basics.md
 │   ├── week-02-audit-trails.md
-│   └── ...
+│   ├── ...
+│   ├── milestone-projects.md   # Practical skill-building projects
+│   └── capstone-projects.md    # Enterprise-scale portfolio pieces
 ├── artifacts/              # Completed artifacts and portfolio pieces
 │   ├── risk-registers/
 │   ├── compliance-checklists/
@@ -25,11 +27,43 @@ This repository tracks my structured learning journey and practical artifact cre
 
 **Weekly Plans:** Follow the weekly markdown files in `weekly-plans/` for structured learning and project tasks.
 
+**Milestone Projects:** Complete targeted projects in `weekly-plans/milestone-projects.md` to build specific skills and create portfolio artifacts that demonstrate competency to hiring managers.
+
+**Capstone Projects:** Tackle comprehensive enterprise-scale projects in `weekly-plans/capstone-projects.md` to showcase integrated skills and strategic thinking.
+
 **Artifacts:** Save your completed work in the appropriate subfolder under `artifacts/` with clear filenames and dates.
 
 **Certifications:** Upload certificates or links here to track progress.
 
 **Resources:** Keep templates, reading PDFs, and course links for easy access.
+
+---
+
+## Milestone & Capstone Projects Overview
+
+### Milestone Projects
+
+Five targeted projects designed to build progressive skills and portfolio pieces:
+
+| Milestone | Focus | Timeline | Key Deliverables |
+|-----------|-------|----------|------------------|
+| 1. Regulatory Gap Analysis | Regulatory interpretation, compliance assessment | Week 3-4 | Requirements register, gap analysis, remediation roadmap |
+| 2. Incident Investigation | Root cause analysis, investigation documentation | Week 6 | Investigation report, ICAM analysis, corrective actions |
+| 3. Compliance Dashboard | KPI development, data visualization | Week 8 | KPI framework, dashboard wireframes, implementation spec |
+| 4. Internal Audit Program | Audit planning, risk-based methodology | Week 9-10 | Audit universe, annual plan, methodology guide, templates |
+| 5. Stakeholder Communication | Regulatory liaison, executive reporting | Week 11-12 | Regulatory response, board reports, community materials |
+
+### Capstone Projects
+
+Three enterprise-scale projects that integrate multiple competencies:
+
+| Capstone | Focus | Effort | Portfolio Impact |
+|----------|-------|--------|------------------|
+| A. Compliance Management System Design | Build CMS from ground up | 30-40 hrs | Demonstrates ability to establish compliance infrastructure |
+| B. Regulatory Change Impact Assessment | Change management, implementation planning | 25-35 hrs | Shows regulatory interpretation and business impact skills |
+| C. Enterprise Compliance Program Review | Assessment, maturity evaluation, improvement | 35-45 hrs | Proves capability to evaluate and enhance compliance functions |
+
+See [milestone-projects.md](weekly-plans/milestone-projects.md) and [capstone-projects.md](weekly-plans/capstone-projects.md) for full details.
 
 ---
 
