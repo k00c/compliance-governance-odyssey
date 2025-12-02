@@ -79,8 +79,8 @@ illustrates how to implement AS/NZS ISO 31000.
 **Tasks:**
 - [x] Understand qualitative vs quantitative risk assessment
 - [x] Learn likelihood and consequence rating scales
-- [ ] Study risk matrices and heat maps
-- [ ] Practice calculating risk ratings
+- [x] Study risk matrices and heat maps
+- [x] Practice calculating risk ratings
 - [x] Begin online course module on risk assessment
 
 **Resources:**
