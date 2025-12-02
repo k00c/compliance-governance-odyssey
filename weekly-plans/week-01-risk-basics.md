@@ -77,11 +77,11 @@ illustrates how to implement AS/NZS ISO 31000.
 **Time Allocation:** 3-4 hours
 
 **Tasks:**
-- [ ] Understand qualitative vs quantitative risk assessment
-- [ ] Learn likelihood and consequence rating scales
+- [x] Understand qualitative vs quantitative risk assessment
+- [x] Learn likelihood and consequence rating scales
 - [ ] Study risk matrices and heat maps
 - [ ] Practice calculating risk ratings
-- [ ] Begin online course module on risk assessment
+- [x] Begin online course module on risk assessment
 
 **Resources:**
 - Risk assessment matrix templates
