@@ -1,586 +1,728 @@
-# Governance & Compliance Learning Roadmap
+# Governance & Compliance Learning Odyssey
 
-This repository tracks my structured learning journey and practical artifact creation to build hirability in the WA resource sector governance and compliance roles.
+## Your Comprehensive 24-Week Journey to WA Resource Sector Compliance Mastery
+
+This repository contains a **chronologically structured, in-depth learning pathway** designed to transform you into a hireable governance and compliance professional for Western Australia's resource sector. Unlike basic overviews, this program offers:
+
+- **24 weeks of detailed, progressive learning** with 18-25 hours per week
+- **Deep-dive topic coverage** with extensive resources and reading materials
+- **Regular practical exercises** in every weekly plan
+- **Portfolio-building projects** embedded throughout the journey
+- **5 milestone projects** creating tangible artifacts for interviews
+- **3 capstone projects** demonstrating enterprise-level capability
+
+**Total Learning Investment:** 450-550 hours over 6 months
 
 ## Repository Structure
 
 ```
 /
-├── README.md               # This overview and guide
-├── weekly-plans/           # Weekly learning plans with readings, courses, and projects
+├── README.md                 # This comprehensive guide
+├── weekly-plans/             # 24 detailed weekly learning plans
 │   ├── week-01-risk-basics.md
 │   ├── week-02-audit-trails.md
-│   ├── ...
-│   ├── milestone-projects.md   # Practical skill-building projects
+│   ├── week-03-regulatory-frameworks.md
+│   ├── week-04-risk-mitigation.md
+│   ├── week-05-compliance-auditing.md
+│   ├── ... (weeks 06-20)
+│   ├── week-21-22-capstone-cms.md
+│   ├── week-23-capstone-regulatory-change.md
+│   ├── week-24-capstone-program-review.md
+│   ├── milestone-projects.md   # Detailed milestone specifications
 │   └── capstone-projects.md    # Enterprise-scale portfolio pieces
-├── artifacts/              # Completed artifacts and portfolio pieces
-│   ├── risk-registers/
-│   ├── compliance-checklists/
-│   ├── dashboards/
-│   ├── case-studies/
-│   └── audit-reports/
-├── certifications/        # Certificates earned, with scanned badges or links
-└── resources/              # Reference materials, templates, and useful links
+├── artifacts/                # Your completed portfolio pieces
+│   ├── risk-registers/       # Risk assessments and matrices
+│   ├── compliance-checklists/ # Requirements registers and checklists
+│   ├── dashboards/           # KPI frameworks and designs
+│   ├── case-studies/         # Investigations and analyses
+│   └── audit-reports/        # Audit plans, reports, and findings
+├── certifications/           # Credentials and course completions
+│   └── README.md             # Certification pathway guidance
+└── resources/                # Reference materials and templates
+    ├── templates/            # Reusable document templates
+    ├── references/           # Saved articles and guides
+    └── reading-materials/    # Course notes and summaries
 ```
 
-## How to Use This Repo
+## How to Use This Repository
 
-**Weekly Plans:** Follow the weekly markdown files in `weekly-plans/` for structured learning and project tasks.
+### Week-by-Week Learning Path
 
-**Milestone Projects:** Complete targeted projects in `weekly-plans/milestone-projects.md` to build specific skills and create portfolio artifacts that demonstrate competency to hiring managers.
+Each weekly plan includes:
+- **Clear learning objectives** (6-8 specific, measurable outcomes)
+- **Daily schedules** with time allocations (2-5 hours per day)
+- **Comprehensive reading lists** (essential + supplementary)
+- **Curated course recommendations** (free and paid options)
+- **Practical exercises** (2-4 per week)
+- **Portfolio projects** (integrated throughout)
+- **Assessment criteria** (self-checks and knowledge verification)
+- **Reflection prompts** (to consolidate learning)
 
-**Capstone Projects:** Tackle comprehensive enterprise-scale projects in `weekly-plans/capstone-projects.md` to showcase integrated skills and strategic thinking.
+### Progressive Learning Structure
 
-**Artifacts:** Save your completed work in the appropriate subfolder under `artifacts/` with clear filenames and dates.
+**Foundation Phase (Weeks 1-4): Core Concepts**
+- Week 01: Risk Management Basics
+- Week 02: Audit Trails and Documentation
+- Week 03: Regulatory Frameworks and WA Legislation
+- Week 04: Risk Mitigation and Treatment Strategies
+- **Milestone 1:** Regulatory Gap Analysis
 
-**Certifications:** Upload certificates or links here to track progress.
+**Building Phase (Weeks 5-8): Applied Skills**
+- Week 05: Compliance Auditing Techniques
+- Week 06: Incident Reporting and Investigation
+- Week 07: Governance Frameworks and Ethics
+- Week 08: Reporting and Dashboarding
+- **Milestone 2:** Incident Investigation Case Study
+- **Milestone 3:** Compliance Monitoring Dashboard
 
-**Resources:** Keep templates, reading PDFs, and course links for easy access.
+**Integration Phase (Weeks 9-12): Systems Thinking**
+- Week 09: Internal Audit Program Development
+- Week 10: Audit Execution and Reporting
+- Week 11: Stakeholder Engagement
+- Week 12: Executive and Regulatory Communication
+- **Milestone 4:** Internal Audit Program
+- **Milestone 5:** Stakeholder Communication Package
+
+**Specialization Phase (Weeks 13-17): Advanced Topics**
+- Week 13: Digital and Data Governance
+- Week 14: Environmental Compliance Deep Dive
+- Week 15: Safety Compliance and Management Systems
+- Week 16: Regulatory Change Management
+- Week 17: ERP Systems and Compliance Integration
+
+**Advanced Phase (Weeks 18-20): Strategic Competencies**
+- Week 18: Business Continuity and Crisis Management
+- Week 19: Compliance Analytics and Technology
+- Week 20: Advanced Risk Management
+
+**Capstone Phase (Weeks 21-24): Portfolio Excellence**
+- Weeks 21-22: Capstone A - Compliance Management System Design
+- Week 23: Capstone B - Regulatory Change Impact Assessment
+- Week 24: Capstone C - Enterprise Compliance Program Review
 
 ---
 
-## Milestone & Capstone Projects Overview
+## Complete Weekly Plan Overview
 
-### Milestone Projects
+### Foundation Phase: Building Core Competencies (Weeks 1-4)
 
-Five targeted projects designed to build progressive skills and portfolio pieces:
+| Week | Topic | Time | Key Deliverables | Status |
+|------|-------|------|------------------|--------|
+| 1 | Risk Management Basics | 15-20h | Risk register, risk matrix, terminology notes | [ ] |
+| 2 | Audit Trails & Documentation | 18-22h | Audit trail package, DMS requirements, templates | [ ] |
+| 3 | Regulatory Frameworks & Legislation | 20-25h | Requirements register (Milestone 1 Part 1) | [ ] |
+| 4 | Risk Mitigation Strategies | 18-22h | **Milestone 1 Complete:** Gap analysis, remediation plan | [ ] |
 
-| Milestone | Focus | Timeline | Key Deliverables |
-|-----------|-------|----------|------------------|
-| 1. Regulatory Gap Analysis | Regulatory interpretation, compliance assessment | Week 3-4 | Requirements register, gap analysis, remediation roadmap |
-| 2. Incident Investigation | Root cause analysis, investigation documentation | Week 6 | Investigation report, ICAM analysis, corrective actions |
-| 3. Compliance Dashboard | KPI development, data visualization | Week 8 | KPI framework, dashboard wireframes, implementation spec |
-| 4. Internal Audit Program | Audit planning, risk-based methodology | Week 9-10 | Audit universe, annual plan, methodology guide, templates |
-| 5. Stakeholder Communication | Regulatory liaison, executive reporting | Week 11-12 | Regulatory response, board reports, community materials |
+**Foundation Phase Outcomes:**
+- Solid understanding of risk management principles (ISO 31000)
+- Professional documentation skills for compliance
+- Working knowledge of WA mining legislation
+- First portfolio piece: Complete regulatory gap analysis
 
-### Capstone Projects
+### Building Phase: Applied Compliance Skills (Weeks 5-8)
 
-Three enterprise-scale projects that integrate multiple competencies:
+| Week | Topic | Time | Key Deliverables | Status |
+|------|-------|------|------------------|--------|
+| 5 | Compliance Auditing Techniques | 20-25h | Audit methodology, working papers, protocols | [ ] |
+| 6 | Incident Reporting & Investigation | 18-22h | **Milestone 2:** Investigation report, root cause analysis | [ ] |
+| 7 | Governance Frameworks & Ethics | 18-22h | Ethics policy, governance analysis, decision frameworks | [ ] |
+| 8 | Reporting & Dashboarding | 20-24h | **Milestone 3:** KPI framework, dashboard design | [ ] |
 
-| Capstone | Focus | Effort | Portfolio Impact |
-|----------|-------|--------|------------------|
-| A. Compliance Management System Design | Build CMS from ground up | 30-40 hrs | Demonstrates ability to establish compliance infrastructure |
-| B. Regulatory Change Impact Assessment | Change management, implementation planning | 25-35 hrs | Shows regulatory interpretation and business impact skills |
-| C. Enterprise Compliance Program Review | Assessment, maturity evaluation, improvement | 35-45 hrs | Proves capability to evaluate and enhance compliance functions |
+**Building Phase Outcomes:**
+- Competent internal auditor with methodology and templates
+- Professional incident investigation capability (ICAM methodology)
+- Understanding of governance structures and ethical decision-making
+- Advanced Excel/dashboard skills with compliance focus
 
-See [milestone-projects.md](weekly-plans/milestone-projects.md) and [capstone-projects.md](weekly-plans/capstone-projects.md) for full details.
+### Integration Phase: Systems & Stakeholder Management (Weeks 9-12)
+
+| Week | Topic | Time | Key Deliverables | Status |
+|------|-------|------|------------------|--------|
+| 9 | Internal Audit Program Development | 20-25h | **Milestone 4 Part 1:** Audit universe, annual plan | [ ] |
+| 10 | Audit Execution & Reporting | 18-22h | **Milestone 4 Part 2:** Sample audit report, templates | [ ] |
+| 11 | Stakeholder Engagement | 18-22h | **Milestone 5 Part 1:** Engagement plans, liaison strategies | [ ] |
+| 12 | Executive & Regulatory Communication | 20-24h | **Milestone 5 Part 2:** Board reports, regulatory responses | [ ] |
+
+**Integration Phase Outcomes:**
+- Ability to build internal audit function from scratch
+- Stakeholder management skills across multiple audiences
+- Executive-level communication capability
+- Regulatory liaison and relationship management
+
+### Specialization Phase: Advanced Domain Knowledge (Weeks 13-17)
+
+| Week | Topic | Time | Key Deliverables | Status |
+|------|-------|------|------------------|--------|
+| 13 | Digital & Data Governance | 18-22h | Data governance policy, privacy impact assessment | [ ] |
+| 14 | Environmental Compliance Deep Dive | 20-24h | Environmental management plan, monitoring protocols | [ ] |
+| 15 | Safety Compliance & Management Systems | 18-22h | Safety management system audit, procedure reviews | [ ] |
+| 16 | Regulatory Change Management | 18-22h | Change impact assessment, implementation protocols | [ ] |
+| 17 | ERP Systems & Compliance Integration | 18-22h | ERP GRC business case, dashboard specifications | [ ] |
+
+**Specialization Phase Outcomes:**
+- Contemporary digital governance and data privacy expertise
+- Deep environmental compliance knowledge for WA mining
+- Safety compliance and SMS understanding
+- Regulatory change management capability
+- ERP systems awareness valuable for modern mining operations
+
+### Advanced Phase: Strategic Competencies (Weeks 18-20)
+
+| Week | Topic | Time | Key Deliverables | Status |
+|------|-------|------|------------------|--------|
+| 18 | Business Continuity & Crisis Management | 18-22h | BCP for compliance function, crisis response plans | [ ] |
+| 19 | Compliance Analytics & Technology | 20-24h | Analytics framework, technology evaluation | [ ] |
+| 20 | Advanced Risk Management | 18-22h | Enterprise risk framework, scenario analysis | [ ] |
+
+**Advanced Phase Outcomes:**
+- Strategic risk and resilience planning capability
+- Understanding of compliance technology landscape
+- Advanced risk modeling and quantitative methods
+- Readiness for senior compliance roles
+
+### Capstone Phase: Portfolio Excellence (Weeks 21-24)
+
+| Week | Project | Time | Portfolio Impact | Status |
+|------|---------|------|------------------|--------|
+| 21-22 | **Capstone A:** Compliance Management System Design | 30-40h | Demonstrates ability to establish compliance infrastructure from ground up | [ ] |
+| 23 | **Capstone B:** Regulatory Change Impact Assessment | 25-35h | Shows regulatory interpretation and business impact analysis skills | [ ] |
+| 24 | **Capstone C:** Enterprise Compliance Program Review | 35-45h | Proves capability to evaluate and enhance compliance functions | [ ] |
+
+**Capstone Phase Outcomes:**
+- Three enterprise-scale portfolio projects
+- Integrated demonstration of all learned skills
+- Professional presentation materials for interviews
+- Confidence to discuss complex compliance initiatives
 
 ---
 
-## Weekly Plan Example
+## Learning Pathway Highlights
 
-### Week 01: Risk Management Basics
+### What Makes This Approach Different?
 
-**Learning Objectives:**
-- Understand fundamental risk management concepts and terminology.
-- Learn how to identify and assess risks in resource sector projects.
-- Gain familiarity with risk registers and their role in compliance.
+1. **Chronologically Structured**
+   - Each week builds logically on previous knowledge
+   - Progressive difficulty curve maintains motivation
+   - Clear dependencies between topics identified
+   - Integrated milestone projects reinforce learning
 
-**Readings & Resources:**
-- ISO 31000 Risk Management Guidelines (summary and key points).
-- WA Department of Mines and Petroleum risk management policies.
-- Selected chapters from "Risk Management in Resource Projects" textbook.
+2. **Deeper Topic Coverage**
+   - 18-25 hours per week (vs typical 10-15 hours)
+   - Multiple resources for each topic (books, articles, courses, standards)
+   - Practical application embedded in every week
+   - Real WA mining sector context throughout
 
-**Courses:**
-- Online course: "Introduction to Risk Management" (e.g., Coursera or LinkedIn Learning).
-- WA-specific compliance webinars or workshops.
+3. **Regular Exercises and Projects**
+   - 2-4 practical exercises per week
+   - 5 substantial milestone projects (10-20 hours each)
+   - 3 capstone projects (25-45 hours each)
+   - Every exercise creates portfolio-ready artifacts
 
-**Practical Projects:**
-- Create a sample risk register for a hypothetical mining project.
-- Conduct a risk assessment exercise using provided case studies.
+4. **Comprehensive Resource Lists**
+   - Essential and supplementary readings identified
+   - Free and paid course options provided
+   - WA-specific resources prioritized
+   - Industry standards and frameworks referenced
+   - Estimated time commitments for all materials
+
+5. **Portfolio-Building Focus**
+   - 50+ individual deliverables across 24 weeks
+   - Professional formatting guidelines provided
+   - Interview talking points developed
+   - Real-world scenarios used throughout
+   - Artifacts map to job posting requirements
+
+### Expected Outcomes
+
+After completing this program, you will have:
+
+**Knowledge Base:**
+- Comprehensive understanding of WA mining legislation
+- Risk management expertise (ISO 31000 certified level)
+- Internal audit methodology and execution capability
+- Environmental and safety compliance knowledge
+- Digital governance and data privacy awareness
+- ERP systems and compliance technology understanding
+
+**Practical Skills:**
+- Gap analysis and remediation planning
+- Incident investigation (ICAM methodology)
+- Audit program development and execution
+- Stakeholder communication (all levels)
+- Compliance reporting and dashboard creation
+- Regulatory liaison and relationship management
+
+**Portfolio Artifacts:**
+- 50+ professional documents and analyses
+- 8 major projects (5 milestones + 3 capstones)
+- Templates and frameworks ready for use
+- Case studies demonstrating problem-solving
+- Evidence of continuous learning and reflection
+
+**Career Readiness:**
+- Hireable for compliance coordinator, officer, analyst roles
+- Competitive for governance advisory positions
+- Prepared for regulatory liaison roles
+- Foundation for certification pathways
+- Network connections in WA resources sector
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+**Time Commitment:** 18-25 hours per week for 24 weeks (450-550 total hours)
+
+**Background:** No prior compliance experience required, but beneficial to have:
+- Basic understanding of business operations
+- Good written communication skills
+- Interest in mining/resources sector
+- Willingness to engage with legislation and technical standards
+
+**Tools and Resources Needed:**
+- Computer with internet access
+- Microsoft Office or equivalent (Excel essential for dashboards)
+- PDF reader/annotator for legislation review
+- Note-taking application
+- Access to online courses (mix of free and paid)
+- Budget: $300-500 for courses and certifications (optional)
+
+### Week 1 Quick Start
+
+1. **Set Up Your Environment**
+   - Clone or download this repository
+   - Create folder structure for your notes and drafts
+   - Set up calendar blocking for study time
+   - Join LinkedIn groups: "WA Mining Professionals", "Risk & Compliance Australia"
+
+2. **Begin Week 01 Plan**
+   - Open `weekly-plans/week-01-risk-basics.md`
+   - Review learning objectives and deliverables
+   - Start Day 1 tasks
+   - Create your first notes file in `resources/week-01-notes/`
+
+3. **Track Your Progress**
+   - Update checkboxes in weekly plans as you complete tasks
+   - Save all deliverables to appropriate `artifacts/` folders
+   - Write reflection entries weekly
+   - Update the status columns in this README
+
+### Study Tips for Success
+
+**Time Management:**
+- Block consistent study times (e.g., weekday evenings 6-9pm, Saturday mornings)
+- Use 25-minute pomodoro sessions for focused reading
+- Schedule breaks between different types of tasks
+- Plan easier tasks when tired, harder topics when fresh
+
+**Active Learning:**
+- Take hand-written notes for better retention
+- Create visual summaries (mind maps, flowcharts)
+- Teach concepts to others (or explain out loud)
+- Apply immediately through practical exercises
+
+**Portfolio Building:**
+- Treat every deliverable as a professional work product
+- Use consistent formatting and clear writing
+- Include realistic details and WA-specific context
+- Gather feedback from professionals if possible
+- Create a "best of" portfolio folder for interviews
+
+**Community Engagement:**
+- Connect with WA mining professionals on LinkedIn
+- Attend industry webinars and virtual events
+- Join RMIA (Risk Management Institute of Australasia) student member
+- Follow DMIRS, EPA, and industry bodies on social media
+- Reach out to compliance professionals for informational interviews
+
+---
+
+## Milestone Projects Overview
+
+### Why Milestones Matter
+
+These 5 targeted projects are designed to create tangible evidence of your skills that you can discuss in job interviews. Each milestone:
+- Takes 10-20 hours to complete
+- Produces 3-5 professional documents
+- Demonstrates specific competencies hiring managers seek
+- Provides concrete examples for behavioral interview questions
+
+### Milestone 1: Regulatory Gap Analysis (Weeks 3-4)
+
+**Skills Demonstrated:** Regulatory interpretation, compliance assessment, remediation planning
+
+**Scenario:** Junior mining company needs full compliance assessment before expanding operations
 
 **Deliverables:**
-- Completed risk register document saved in `artifacts/risk-registers/`.
-- Reflective notes on risk assessment challenges and learnings.
+- Compliance requirements register (40-50 requirements)
+- Gap analysis report (8-10 findings)
+- Risk-based remediation roadmap
 
-**Reflection & Notes:**
-- Weekly journal entry summarizing key takeaways and questions.
+**Interview Value:** "I conducted a comprehensive regulatory gap analysis covering Mining Act, EP Act, and safety legislation, identifying key compliance gaps and developing a prioritized remediation plan."
+
+### Milestone 2: Incident Investigation (Week 6)
+
+**Skills Demonstrated:** Root cause analysis, investigation methodology, regulatory notification
+
+**Scenario:** Vehicle rollover incident requiring full investigation and DMIRS notification
+
+**Deliverables:**
+- Investigation plan and methodology
+- Root cause analysis using ICAM
+- Formal investigation report
+- Corrective action plan
+- DMIRS notification draft
+
+**Interview Value:** "I developed a complete incident investigation package using ICAM methodology, identifying both immediate and systemic causes, and preparing regulatory notifications."
+
+### Milestone 3: Compliance Monitoring Dashboard (Week 8)
+
+**Skills Demonstrated:** KPI development, data visualization, executive reporting
+
+**Scenario:** Multi-site iron ore company needs compliance dashboard for executive visibility
+
+**Deliverables:**
+- KPI framework (25+ indicators)
+- Dashboard wireframes and mockups
+- Implementation specification
+- Sample dashboard in Excel
+
+**Interview Value:** "I designed a comprehensive compliance dashboard framework including leading and lagging indicators across environmental, safety, and regulatory categories."
+
+### Milestone 4: Internal Audit Program (Weeks 9-10)
+
+**Skills Demonstrated:** Audit program development, risk-based planning, methodology design
+
+**Scenario:** Gold mining company wants to establish internal audit capability
+
+**Deliverables:**
+- Risk-based audit universe (30+ areas)
+- 12-month audit plan
+- Audit methodology guide
+- Template package (5-6 templates)
+- Sample environmental compliance audit report
+
+**Interview Value:** "I developed a complete internal audit program from scratch, including risk-based audit universe, annual plan, methodology documentation, and reusable templates."
+
+### Milestone 5: Stakeholder Communication Package (Weeks 11-12)
+
+**Skills Demonstrated:** Multi-level communication, regulatory liaison, stakeholder management
+
+**Scenario:** Mining company responding to DMIRS inspection findings and managing multiple stakeholders
+
+**Deliverables:**
+- Formal regulatory response letter
+- Detailed action plan
+- Board compliance report
+- Community briefing materials
+- Employee communications
+
+**Interview Value:** "I created a comprehensive stakeholder communication package addressing regulatory response, board reporting, community engagement, and internal communications."
 
 ---
 
-### Week 02: Audit Trails and Compliance Documentation
+## Capstone Projects Overview
 
-**Learning Objectives:**
-- Understand the importance of audit trails in governance.
-- Learn how to document compliance activities effectively.
-- Familiarize with WA resource sector regulatory documentation standards.
+### Capstone A: Compliance Management System Design (Weeks 21-22)
 
-**Readings & Resources:**
-- WA Department of Mines and Petroleum compliance guidelines.
-- Sample audit trail templates and case studies.
-- Articles on best practices for compliance documentation.
+**Effort:** 30-40 hours over 2 weeks
 
-**Courses:**
-- Online course: "Audit and Compliance Documentation" (LinkedIn Learning or similar).
-- WA-specific workshops or webinars on compliance documentation.
+**Objective:** Design a comprehensive compliance management system from ground up
 
-**Practical Projects:**
-- Create an audit trail for a sample compliance process.
-- Review and critique existing compliance documentation samples.
+**Key Components:**
+- Compliance framework and governance structure
+- Policy and procedure hierarchy
+- Risk and compliance integration
+- Compliance calendar and obligation management
+- Monitoring and assurance framework
+- Technology requirements
+- Implementation roadmap
 
-**Deliverables:**
-- Completed audit trail document saved in `artifacts/audit-reports/`.
-- Summary report on documentation best practices.
+**Portfolio Impact:** Demonstrates strategic thinking and ability to establish compliance infrastructure for an entire organization.
 
-**Reflection & Notes:**
-- Journal entry on challenges and insights from documentation exercises.
+### Capstone B: Regulatory Change Impact Assessment (Week 23)
 
----
+**Effort:** 25-35 hours
 
-### Week 03: Regulatory Frameworks and Legislation
+**Objective:** Assess impact of major regulatory change and develop implementation plan
 
-**Learning Objectives:**
-- Gain knowledge of key WA resource sector legislation.
-- Understand how regulatory frameworks impact compliance roles.
-- Learn to interpret and apply legislation in practical scenarios.
+**Key Components:**
+- Legislative change analysis
+- Business impact assessment
+- Gap analysis against new requirements
+- Implementation plan with timelines
+- Training and communication strategy
+- Cost-benefit analysis
+- Risk assessment of non-compliance
 
-**Readings & Resources:**
-- WA Mining Act and Environmental Protection Act summaries.
-- Regulatory framework guides from WA government websites.
-- Case studies on legislative compliance in resource projects.
+**Portfolio Impact:** Shows regulatory interpretation skills and ability to translate legislative changes into business action.
 
-**Courses:**
-- Online course: "Resource Sector Legislation" (specialized or government-provided).
-- Webinars on legislative updates and compliance.
+### Capstone C: Enterprise Compliance Program Review (Week 24)
 
-**Practical Projects:**
-- Analyze a case study for legislative compliance issues.
-- Draft a compliance checklist based on WA legislation.
+**Effort:** 35-45 hours
 
-**Deliverables:**
-- Compliance checklist saved in `artifacts/compliance-checklists/`.
-- Case study analysis report.
+**Objective:** Evaluate maturity of existing compliance program and recommend improvements
 
-**Reflection & Notes:**
-- Weekly journal reflecting on legislative challenges and learning.
+**Key Components:**
+- Compliance maturity assessment
+- Benchmarking against best practice
+- Strengths and improvement opportunities
+- Detailed recommendations
+- Implementation roadmap
+- Success metrics and KPIs
+- Final portfolio presentation
+
+**Portfolio Impact:** Proves capability to assess, evaluate, and enhance compliance functions at enterprise scale.
 
 ---
 
-### Week 04: Risk Mitigation Strategies
+## Certification Pathways
 
-**Learning Objectives:**
-- Learn common risk mitigation techniques in resource projects.
-- Understand how to develop and implement mitigation plans.
-- Explore communication strategies for risk management.
+### Foundation Certifications (Complete During or After Program)
 
-**Readings & Resources:**
-- Articles on risk mitigation best practices.
-- WA resource sector case studies on risk management.
-- Templates for mitigation plans.
+**Risk Management:**
+- ISO 31000 Risk Management Foundation (online, ~$400)
+- RMIA Certified Risk Practitioner - Foundation (~$1,500)
 
-**Courses:**
-- Online course: "Risk Mitigation and Communication".
-- WA-specific risk management workshops.
+**Compliance:**
+- Governance, Risk & Compliance (GRC) Professional Foundation (~$500)
+- Certificate IV in Compliance and Risk Management (RPL pathway available)
 
-**Practical Projects:**
-- Develop a risk mitigation plan for a hypothetical project.
-- Role-play communication scenarios for risk reporting.
+**Environmental:**
+- Introduction to Environmental Management Systems (free/low-cost online)
 
-**Deliverables:**
-- Risk mitigation plan document saved in `artifacts/risk-registers/`.
-- Communication role-play notes.
+**Safety:**
+- Resources Safety (Mining) White Card WA (required for site access, ~$150)
 
-**Reflection & Notes:**
-- Journal entry on mitigation strategy effectiveness and communication challenges.
+### Intermediate Certifications (6-12 Months Post-Program)
 
----
+- Certified Internal Auditor (CIA) - if pursuing audit focus
+- Certified Compliance & Ethics Professional (CCEP)
+- Certificate IV in Work Health and Safety (~$2,000-3,000)
+- ISO 14001 Lead Auditor
 
-### Week 05: Compliance Auditing Techniques
+### Long-Term Professional Development
 
-**Learning Objectives:**
-- Understand auditing principles and techniques.
-- Learn how to plan and conduct compliance audits.
-- Familiarize with audit reporting standards.
+- Advanced Diploma of Business (Governance) - 12-18 months
+- Chartered Governance Professional pathway
+- Master of Business Administration (MBA) with governance focus
+- Industry-specific certifications based on specialization
 
-**Readings & Resources:**
-- Audit standards and guidelines relevant to WA resources.
-- Sample audit reports.
-- Articles on effective audit techniques.
-
-**Courses:**
-- Online course: "Compliance Auditing".
-- WA government audit workshops.
-
-**Practical Projects:**
-- Plan and simulate a compliance audit.
-- Draft an audit report based on simulation.
-
-**Deliverables:**
-- Audit plan and report saved in `artifacts/audit-reports/`.
-- Reflective notes on audit process.
-
-**Reflection & Notes:**
-- Weekly journal entry on auditing insights and improvements.
+**See `certifications/README.md` for detailed pathways and requirements.**
 
 ---
 
-### Week 06: Incident Reporting and Investigation
+## Resources and References
 
-**Learning Objectives:**
-- Learn incident reporting requirements and procedures.
-- Understand investigation techniques and root cause analysis.
-- Explore documentation and follow-up processes.
+### Essential WA Resources
 
-**Readings & Resources:**
-- WA incident reporting guidelines.
-- Case studies on incident investigations.
-- Root cause analysis tools and templates.
+**Regulatory Bodies:**
+- [DMIRS - Department of Mines, Industry Regulation and Safety](https://www.dmirs.wa.gov.au/)
+- [EPA - Environmental Protection Authority](https://www.epa.wa.gov.au/)
+- [DWER - Department of Water and Environmental Regulation](https://www.der.wa.gov.au/)
+- [DPLH - Department of Planning, Lands and Heritage](https://www.dplh.wa.gov.au/)
 
-**Courses:**
-- Online course: "Incident Investigation and Reporting".
-- WA-specific safety and compliance webinars.
+**Legislation:**
+- [WA Legislation Database](https://www.legislation.wa.gov.au/)
+- [Austlii WA Consolidated Acts](https://www.austlii.edu.au/au/legis/wa/consol_act/)
 
-**Practical Projects:**
-- Draft an incident report for a hypothetical event.
-- Conduct a root cause analysis exercise.
+**Industry Bodies:**
+- [Chamber of Minerals and Energy WA](https://www.cmewa.com.au/)
+- [Association of Mining and Exploration Companies](https://www.amec.org.au/)
 
-**Deliverables:**
-- Incident report document saved in `artifacts/case-studies/`.
-- Root cause analysis report.
+### Professional Associations
 
-**Reflection & Notes:**
-- Journal entry on incident handling challenges and lessons.
+- [Risk Management Institute of Australasia (RMIA)](https://www.rmia.org.au/)
+- [Governance Institute of Australia](https://www.governanceinstitute.com.au/)
+- [Australian Institute of Company Directors (AICD)](https://www.aicd.com.au/)
+- [Australasian Compliance Institute](https://www.compliance.org.au/)
 
----
+### Key Standards and Frameworks
 
-### Week 07: Governance Frameworks and Ethics
-
-**Learning Objectives:**
-- Understand governance principles and ethical standards.
-- Learn how governance frameworks support compliance.
-- Explore ethical decision-making in resource projects.
-
-**Readings & Resources:**
-- Governance framework documents.
-- Articles on ethics in resource sector governance.
-- WA government ethics guidelines.
-
-**Courses:**
-- Online course: "Corporate Governance and Ethics".
-- WA-specific governance webinars.
-
-**Practical Projects:**
-- Analyze governance case studies.
-- Draft an ethics policy for a resource project.
-
-**Deliverables:**
-- Ethics policy document saved in `artifacts/compliance-checklists/`.
-- Case study analysis report.
-
-**Reflection & Notes:**
-- Weekly journal reflecting on governance and ethics learnings.
+- ISO 31000:2018 Risk Management
+- ISO 14001:2015 Environmental Management Systems
+- ISO 45001:2018 Occupational Health and Safety
+- ISO 19600:2014 Compliance Management Systems
+- AS 8001-2021 Fraud and Corruption Control
+- COSO Enterprise Risk Management Framework
 
 ---
 
-### Week 08: Reporting and Dashboarding
+## Frequently Asked Questions
 
-**Learning Objectives:**
-- Learn how to create effective compliance reports.
-- Understand dashboard tools and data visualization.
-- Explore reporting frequency and stakeholder communication.
+### How long will this take?
 
-**Readings & Resources:**
-- Examples of compliance reports and dashboards.
-- Articles on data visualization best practices.
-- WA sector reporting guidelines.
+**Minimum:** 24 weeks at 18-20 hours/week (432-480 hours total)  
+**Recommended:** 24 weeks at 20-25 hours/week (480-600 hours total)  
+**Intensive:** Can be compressed to 16-18 weeks at 30-35 hours/week
 
-**Courses:**
-- Online course: "Data Visualization and Reporting".
-- WA-specific reporting workshops.
+### Can I work full-time while doing this?
 
-**Practical Projects:**
-- Create a compliance dashboard using sample data.
-- Draft a monthly compliance report.
+Yes! The program is designed for working professionals. Many students allocate:
+- Weekday evenings: 2-3 hours (10-15 hours/week)
+- Weekend: One full day (8-10 hours/week)
+- Total: 18-25 hours/week
 
-**Deliverables:**
-- Dashboard files saved in `artifacts/dashboards/`.
-- Compliance report document.
+### What if I don't have mining experience?
 
-**Reflection & Notes:**
-- Journal entry on reporting challenges and insights.
+Perfect - this program is designed for career changers! The WA mining sector values compliance professionals from diverse backgrounds. Focus on:
+- Demonstrating transferable skills
+- Building portfolio artifacts that showcase capability
+- Networking with mining professionals
+- Understanding mining operations through reading/videos
+- Considering site tours if possible (contact companies or CMEWA)
 
----
+### Do I need to complete everything in order?
 
-### Week 09: Networking and Professional Development
+**Core weeks (1-12):** Yes, follow the sequence as concepts build on each other
 
-**Learning Objectives:**
-- Understand the importance of networking in the WA resource sector.
-- Learn strategies for effective professional networking.
-- Explore continuous learning and certification pathways.
+**Specialization weeks (13-17):** Some flexibility - prioritize based on interest
 
-**Readings & Resources:**
-- Articles on networking best practices.
-- WA resource sector professional groups and events.
-- Certification pathways and requirements.
+**Advanced weeks (18-20):** Can be reordered based on career goals
 
-**Courses:**
-- Online course: "Professional Networking".
-- WA-specific industry events and webinars.
+**Capstones (21-24):** Best done in order, but B and C could swap
 
-**Practical Projects:**
-- Attend a networking event or webinar.
-- Update LinkedIn profile and connect with professionals.
+### How much will this cost?
 
-**Deliverables:**
-- Networking log and reflections saved in `networking/`.
-- Updated professional profile summary.
+**Minimal Budget ($50-100):**
+- Use free courses (Coursera audit mode, YouTube, government resources)
+- Free trial subscriptions (LinkedIn Learning, Udemy sales)
+- Open-access standards summaries
+- Library access for textbooks
 
-**Reflection & Notes:**
-- Journal entry on networking experiences and plans.
+**Moderate Budget ($300-500):**
+- LinkedIn Learning subscription ($30-40/month x 6)
+- 2-3 specialized courses ($50-150 each)
+- 1-2 foundation certifications ($100-400 each)
 
----
+**Optimal Budget ($800-1,200):**
+- All courses and certifications recommended
+- Professional association membership
+- Industry conference attendance
+- Printed reference materials
 
-### Week 10: Job Application and Interview Preparation
+### What jobs can I apply for after completing this?
 
-**Learning Objectives:**
-- Learn how to tailor resumes and cover letters for governance roles.
-- Understand interview techniques and common questions.
-- Prepare for behavioral and technical interviews.
+**Entry Level (0-2 years compliance experience):**
+- Compliance Coordinator
+- Compliance Officer
+- Risk and Compliance Analyst
+- Governance Support Officer
+- Junior Compliance Advisor
 
-**Readings & Resources:**
-- Sample resumes and cover letters.
-- Interview preparation guides.
-- WA resource sector job descriptions.
+**With This Portfolio (competitive for):**
+- Compliance Officer (mid-level)
+- Risk and Compliance Advisor
+- Environmental Compliance Coordinator
+- Internal Auditor (compliance focus)
+- Regulatory Affairs Coordinator
 
-**Courses:**
-- Online course: "Job Search Strategies".
-- Interview skills workshops.
+**Salary Expectations (WA Mining, 2024):**
+- Entry level: $80K-100K
+- Coordinator/Officer: $100K-130K
+- Senior/Advisor: $130K-160K+
 
-**Practical Projects:**
-- Draft tailored resume and cover letter.
-- Conduct mock interviews.
+### How do I use this portfolio in job applications?
 
-**Deliverables:**
-- Resume and cover letter saved in `job-applications/`.
-- Interview notes and reflections.
+1. **Resume:** Mention "24-week intensive compliance program" in education/development
+2. **Cover Letter:** Reference specific projects relevant to job requirements
+3. **GitHub/Portfolio Link:** Include link to this repository (public)
+4. **Interviews:** Use STAR method with your milestone projects as examples
+5. **Take-Home Exercises:** Adapt your templates and frameworks
 
-**Reflection & Notes:**
-- Weekly journal entry on application progress and interview learnings.
+### Where can I get help if I'm stuck?
 
----
-
-### Week 11: Review and Portfolio Consolidation
-
-**Learning Objectives:**
-- Review all artifacts and learning outcomes.
-- Consolidate portfolio for presentation to employers.
-- Plan next steps for continuous professional development.
-
-**Readings & Resources:**
-- Portfolio presentation guides.
-- Articles on continuous learning.
-
-**Courses:**
-- Optional courses on portfolio building.
-
-**Practical Projects:**
-- Organize and polish portfolio artifacts.
-- Prepare a professional summary document.
-
-**Deliverables:**
-- Final portfolio uploaded to repo.
-- Professional summary document.
-
-**Reflection & Notes:**
-- Journal entry on overall learning journey and future goals.
+- **LinkedIn Groups:** Post questions in WA mining professional groups
+- **RMIA Forums:** Student members can access discussion forums
+- **Reddit:** r/AusFinance, r/mining, r/compliance
+- **Professional Networks:** Request informational interviews
+- **Government Resources:** DMIRS and EPA have helplines for compliance questions
+- **This Repository:** Use Issues tab to document questions/challenges
 
 ---
 
-### Week 12: Continuous Learning and Certification Planning
+## Contributing and Feedback
 
-**Learning Objectives:**
-- Identify relevant certifications for WA resource sector governance roles.
-- Plan ongoing learning and certification timelines.
-- Explore advanced topics and specialization areas.
-- Understand digital and data governance principles, including privacy and information security.
-- Gain awareness of environmental and safety compliance basics relevant to the resource sector.
-- Develop skills in stakeholder engagement, regulatory change management, and project compliance support.
+This learning pathway is continuously improved based on feedback and industry changes. If you complete this program:
 
-**Readings & Resources:**
-- Certification requirements and pathways.
-- Articles on advanced governance topics.
-- WA privacy and data governance guidelines.
-- Environmental management and safety compliance resources.
-- Stakeholder engagement and regulatory change management articles.
-- Introductory project management materials.
+**Share Your Experience:**
+- How long did it take you?
+- What was most valuable?
+- What was too basic or too advanced?
+- What resources were most helpful?
+- Did you get hired? In what role?
 
-**Courses:**
-- Research and enroll in relevant certifications.
-- Online courses on digital governance and privacy compliance.
-- Environmental and safety compliance workshops.
-- Courses on stakeholder engagement and regulatory change.
-- Basic project management courses.
+**Suggest Improvements:**
+- Additional resources discovered
+- Better project scenarios
+- Updated legislation or standards
+- New tools or technologies
+- Industry trend changes
 
-**Practical Projects:**
-- Create a certification roadmap.
-- Identify specialization projects.
-- Develop a data governance checklist.
-- Draft a brief environmental compliance summary.
-- Prepare a stakeholder engagement plan.
-- Monitor a regulatory change and draft an implementation note.
-- Outline a project compliance support checklist.
-
-**Deliverables:**
-- Certification plan document.
-- List of specialization project ideas.
-- Data governance checklist.
-- Environmental compliance summary.
-- Stakeholder engagement plan.
-- Regulatory change implementation note.
-- Project compliance checklist.
-
-**Reflection & Notes:**
-- Journal entry on certification goals, learning plans, and expanded compliance topics.
+**Pay It Forward:**
+- Mentor others following this pathway
+- Share your portfolio artifacts as examples
+- Connect learners with industry professionals
+- Provide mock interviews or resume reviews
 
 ---
 
-### Week 13: Digital and Data Governance
+## Progress Tracking
 
-**Learning Objectives:**
-- Understand principles of digital governance and data privacy.
-- Learn about information security requirements in the resource sector.
-- Explore compliance with WA privacy laws and data integrity standards.
+Update this table as you complete each week:
 
-**Readings & Resources:**
-- WA privacy and data protection legislation.
-- Articles on digital governance frameworks.
-- Case studies on data breaches and compliance.
-
-**Courses:**
-- Online course: "Data Privacy and Security".
-- WA-specific digital governance webinars.
-
-**Practical Projects:**
-- Conduct a data privacy impact assessment for a sample project.
-- Draft a data governance policy.
-
-**Deliverables:**
-- Data privacy impact assessment document.
-- Data governance policy saved in `artifacts/compliance-checklists/`.
-
-**Reflection & Notes:**
-- Journal entry on digital governance challenges and learnings.
-
----
-
-### Week 14: Environmental and Safety Compliance Basics
-
-**Learning Objectives:**
-- Understand environmental management systems and safety compliance requirements.
-- Learn key WA environmental and occupational health and safety legislation.
-- Explore incident prevention and reporting in environmental and safety contexts.
-
-**Readings & Resources:**
-- WA Environmental Protection Act summaries.
-- Occupational health and safety guidelines.
-- Case studies on environmental incidents.
-
-**Courses:**
-- Online course: "Environmental Compliance Basics".
-- WA safety compliance workshops.
-
-**Practical Projects:**
-- Draft an environmental compliance checklist.
-- Prepare a safety incident prevention plan.
-
-**Deliverables:**
-- Environmental compliance checklist saved in `artifacts/compliance-checklists/`.
-- Safety incident prevention plan.
-
-**Reflection & Notes:**
-- Journal entry on environmental and safety compliance learnings.
+| Phase | Week | Topic | Status | Completion Date |
+|-------|------|-------|--------|-----------------|
+| Foundation | 1 | Risk Management Basics | [ ] | |
+| Foundation | 2 | Audit Trails & Documentation | [ ] | |
+| Foundation | 3 | Regulatory Frameworks | [ ] | |
+| Foundation | 4 | Risk Mitigation | [ ] | |
+| Building | 5 | Compliance Auditing | [ ] | |
+| Building | 6 | Incident Investigation | [ ] | |
+| Building | 7 | Governance & Ethics | [ ] | |
+| Building | 8 | Reporting & Dashboarding | [ ] | |
+| Integration | 9 | Internal Audit Program | [ ] | |
+| Integration | 10 | Audit Execution | [ ] | |
+| Integration | 11 | Stakeholder Engagement | [ ] | |
+| Integration | 12 | Communication | [ ] | |
+| Specialization | 13 | Digital & Data Governance | [ ] | |
+| Specialization | 14 | Environmental Compliance | [ ] | |
+| Specialization | 15 | Safety Compliance | [ ] | |
+| Specialization | 16 | Regulatory Change | [ ] | |
+| Specialization | 17 | ERP Systems | [ ] | |
+| Advanced | 18 | Business Continuity | [ ] | |
+| Advanced | 19 | Compliance Analytics | [ ] | |
+| Advanced | 20 | Advanced Risk | [ ] | |
+| Capstone | 21-22 | CMS Design | [ ] | |
+| Capstone | 23 | Regulatory Change Impact | [ ] | |
+| Capstone | 24 | Program Review | [ ] | |
 
 ---
 
-### Week 15: Stakeholder Engagement and Regulatory Change Management
+## License and Usage
 
-**Learning Objectives:**
-- Learn effective stakeholder engagement techniques.
-- Understand regulatory change monitoring and implementation.
-- Explore communication strategies for compliance updates.
+This learning pathway is provided as-is for personal educational use. Feel free to:
+- Follow the program at your own pace
+- Adapt weekly plans to your needs
+- Share with others pursuing compliance careers
+- Fork and modify for different industries/regions
 
-**Readings & Resources:**
-- Articles on stakeholder management in resource projects.
-- WA regulatory change management guides.
-- Case studies on compliance communication.
-
-**Courses:**
-- Online course: "Stakeholder Engagement".
-- Workshops on regulatory change management.
-
-**Practical Projects:**
-- Develop a stakeholder engagement plan.
-- Monitor a recent regulatory change and draft an implementation note.
-
-**Deliverables:**
-- Stakeholder engagement plan saved in `artifacts/case-studies/`.
-- Regulatory change implementation note.
-
-**Reflection & Notes:**
-- Journal entry on stakeholder engagement and regulatory change experiences.
+If you find this valuable, consider:
+- ⭐ Starring this repository
+- Sharing with career-changers in your network
+- Providing feedback for improvements
+- Contributing additional resources or case studies
 
 ---
 
-### Week 16: Compliance Software and Project Management Basics
+**Ready to begin your journey to compliance mastery?**
 
-**Learning Objectives:**
-- Gain familiarity with compliance management software tools.
-- Learn basic project management principles relevant to compliance roles.
-- Explore data visualization and dashboard creation using common tools.
+Start with [Week 01: Risk Management Basics](weekly-plans/week-01-risk-basics.md)
 
-**Readings & Resources:**
-- Guides on compliance software (e.g., Power BI, Excel dashboards).
-- Introductory project management materials.
-- Articles on data visualization best practices.
-
-**Courses:**
-- Online course: "Compliance Software Tools".
-- Basic project management course.
-- Data visualization workshops.
-
-**Practical Projects:**
-- Create a compliance dashboard using sample data.
-- Outline a project compliance support checklist.
-
-**Deliverables:**
-- Compliance dashboard saved in `artifacts/dashboards/`.
-- Project compliance checklist.
-
-**Reflection & Notes:**
-- Journal entry on software tool usage and project management insights.
+*Good luck on your learning odyssey! 🚀*
 
 ---
 
-### Week 17: ERP Systems and Compliance Integration
-
-**Learning Objectives:**
-- Explain what ERP systems are and their role in organizational governance.
-- Understand how ERP modules support compliance and risk management functions.
-- Navigate common ERP systems (SAP, Oracle, Microsoft Dynamics) at a conceptual level.
-- Configure compliance-related workflows and controls within ERP environments.
-- Create portfolio artifacts demonstrating ERP compliance integration skills.
-
-**Readings & Resources:**
-- SAP ERP Introduction Guide and SAP GRC documentation.
-- Oracle Cloud GRC Overview and Risk Management Cloud features.
-- Microsoft Dynamics 365 Compliance Center guides.
-- Case studies on ERP implementations in Australian mining companies.
-
-**Courses:**
-- SAP ERP Essential Training (LinkedIn Learning / SAP Learning Hub).
-- Microsoft Dynamics 365 Fundamentals (free learning path).
-- Vendor webinars on GRC solutions.
-
-**Practical Projects:**
-- Design a compliance monitoring dashboard specification with KPIs.
-- Develop a business case for GRC module implementation.
-- Create a role-based access control (RBAC) matrix for compliance functions.
-
-**Deliverables:**
-- ERP compliance dashboard design document saved in `artifacts/dashboards/`.
-- ERP GRC implementation business case saved in `artifacts/case-studies/`.
-- Access control matrix saved in `artifacts/compliance-checklists/`.
-- ERP vocabulary glossary and vendor comparison summary.
-
-**Reflection & Notes:**
-- Journal entry on ERP skills development and portfolio building for hiring managers.
+*Last Updated: December 2024*  
+*Version: 2.0 - Comprehensive 24-Week Program*
