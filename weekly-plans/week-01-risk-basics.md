@@ -26,11 +26,11 @@ By the end of this week, you will be able to:
 **Time Allocation:** 2-3 hours
 
 ### Tasks
-- [ ] Read ISO 31000 Risk Management Guidelines overview
-- [ ] Learn key terminology: risk, hazard, likelihood, consequence, risk appetite, risk tolerance
-- [ ] Understand the risk management framework components
-- [ ] Take notes on core principles
-- [ ] Create vocabulary flashcards or summary notes
+- [x] Read ISO 31000 Risk Management Guidelines overview
+- [x] Learn key terminology: risk, hazard, likelihood, consequence, risk appetite, risk tolerance
+- [x] Understand the risk management framework components
+- [x] Take notes on core principles
+- [x] Create vocabulary flashcards or summary notes
 
 ### Readings for Today
 | Resource | Type | Time | Link/Location |
@@ -60,10 +60,10 @@ By the end of this week, you will be able to:
 **Time Allocation:** 2-3 hours
 
 ### Tasks
-- [ ] Learn risk identification methods (brainstorming, SWOT, checklists, interviews)
-- [ ] Study risk categorization: strategic, operational, financial, compliance, environmental
-- [ ] Review WA resource sector common risk categories
-- [ ] Practice identifying risks from a sample project scenario
+- [x] Learn risk identification methods (brainstorming, SWOT, checklists, interviews)
+- [x] Study risk categorization: strategic, operational, financial, compliance, environmental
+- [x] Review WA resource sector common risk categories
+- [x] Practice identifying risks from a sample project scenario
 
 ### Readings for Today
 | Resource | Type | Time | Link/Location |
@@ -94,11 +94,11 @@ By the end of this week, you will be able to:
 **Time Allocation:** 3-4 hours
 
 ### Tasks
-- [ ] Understand qualitative vs quantitative risk assessment
-- [ ] Learn likelihood and consequence rating scales
-- [ ] Study risk matrices and heat maps
-- [ ] Practice calculating risk ratings
-- [ ] Begin online course module on risk assessment
+- [x] Understand qualitative vs quantitative risk assessment
+- [x] Learn likelihood and consequence rating scales
+- [x] Study risk matrices and heat maps
+- [x] Practice calculating risk ratings
+- [x] Begin online course module on risk assessment
 
 ### Readings for Today
 | Resource | Type | Time | Link/Location |
@@ -108,8 +108,8 @@ By the end of this week, you will be able to:
 
 ### Course Module for Today
 **Course:** Introduction to Risk Management (LinkedIn Learning or Coursera)
-- [ ] Module 1: Introduction to Risk Management (60 mins)
-- [ ] Module 2: Risk Identification (45 mins)
+- [x] Module 1: Introduction to Risk Management (60 mins)
+- [x] Module 2: Risk Identification (45 mins)
 
 ### Practice Exercise
 Create a 5×5 risk matrix and plot 5 sample risks on it:
