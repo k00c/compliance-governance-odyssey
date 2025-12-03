@@ -21,414 +21,408 @@ By the end of this week, you will be able to:
 
 ---
 
-## Daily Schedule
-
-### Day 1: Introduction to ERP Systems
+## Day 1: Introduction to ERP Systems
 
 **Time Allocation:** 2-3 hours
 
-**Tasks:**
+### Tasks
 - [ ] Learn ERP fundamentals: definition, architecture, and business value
 - [ ] Understand common ERP modules: Finance, HR, Supply Chain, Compliance
 - [ ] Study the relationship between ERP and governance frameworks
 - [ ] Compare major ERP vendors: SAP, Oracle, Microsoft Dynamics, NetSuite
 - [ ] Take notes on ERP terminology and concepts
 
-**Resources:**
-- ERP fundamentals overview guides
-- Vendor-specific introduction materials (SAP Learning Hub free resources)
-- Articles on ERP in resource sector organizations
+### Readings for Today
+| Resource | Type | Time | Link/Location |
+|----------|------|------|---------------|
+| SAP Learning Journey: Discover SAP | Guide | 2 hrs | [learning.sap.com](https://learning.sap.com/learning-journeys/discover-sap) |
+| ERP Fundamentals Overview | Article | 1 hr | Search online ERP resources |
+| Mining Sector ERP Case Studies | Case Study | 1 hr | Vendor case study libraries |
 
-**Deliverable:** ERP vocabulary glossary and vendor comparison summary
+### Resources for Today
+- [SAP Learning Hub](https://learning.sap.com/)
+- [Oracle Cloud Learning](https://www.oracle.com/cloud/free/)
+- [Microsoft Learn - Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/)
+
+### Key Concepts to Master Today
+- **ERP (Enterprise Resource Planning):** Integrated software platform managing core business processes
+- **ERP Modules:** Functional components (Finance, HR, Supply Chain, etc.)
+- **Business Value:** Centralized data, process automation, real-time reporting
+- **Major Vendors:** SAP, Oracle, Microsoft Dynamics, NetSuite
+
+### Practice Exercise
+Create a comparison table of at least 3 major ERP vendors, noting their strengths, typical customers, and GRC offerings.
+
+### Deliverable for Today
+✅ ERP vocabulary glossary and vendor comparison summary saved to `resources/week-17-notes/day-01-erp-fundamentals.md`
+
+### Reflection Prompts
+- How do ERP systems differ from standalone compliance software?
+- Which ERP vendor seems most relevant to WA resource sector?
 
 ---
 
-### Day 2: ERP Compliance and Risk Modules
+## Day 2: ERP Compliance and Risk Modules
 
 **Time Allocation:** 3-4 hours
 
-**Tasks:**
+### Tasks
 - [ ] Learn about GRC (Governance, Risk, and Compliance) modules in ERP systems
 - [ ] Study SAP GRC and Oracle Risk Management Cloud features
 - [ ] Understand how compliance controls are implemented in ERP
 - [ ] Review audit trails and reporting capabilities in ERP systems
 - [ ] Explore regulatory compliance features (SOX, environmental, safety)
 
-**Resources:**
-- SAP GRC documentation and tutorials
-- Oracle Risk Management Cloud overview
+### Readings for Today
+| Resource | Type | Time | Link/Location |
+|----------|------|------|---------------|
+| SAP GRC Documentation | Documentation | 1-2 hrs | [SAP Help Portal](https://help.sap.com/) |
+| Oracle Risk Management Cloud Overview | Guide | 1 hr | [oracle.com/grc](https://www.oracle.com/au/erp/risk-management/) |
+| Microsoft Dynamics 365 Compliance Center | Guide | 1 hr | [Microsoft Learn](https://learn.microsoft.com/en-us/dynamics365/finance/) |
+
+### Resources for Today
+- SAP GRC product documentation
+- Oracle Risk Management Cloud features list
 - Microsoft Dynamics 365 Compliance Center guides
 
-**Deliverable:** GRC module feature comparison matrix
+### Key GRC Module Features
+1. **Access Control:** Role-based permissions and segregation of duties
+2. **Process Control:** Automated compliance workflows
+3. **Risk Management:** Risk assessment and monitoring tools
+4. **Audit Management:** Audit planning, execution, and reporting
+5. **Policy Management:** Policy distribution and attestation
+6. **Issue Management:** Tracking compliance gaps and remediation
+
+### Practice Exercise
+Create a feature comparison matrix showing GRC capabilities across SAP GRC, Oracle Risk Management Cloud, and Microsoft Dynamics 365 Compliance features.
+
+### Deliverable for Today
+✅ GRC module feature comparison matrix saved to `resources/week-17-notes/day-02-grc-feature-matrix.xlsx`
 
 ---
 
-### Day 3: ERP for Resource Sector Compliance
+## Day 3: ERP for Resource Sector Compliance
 
 **Time Allocation:** 3-4 hours
 
-**Tasks:**
+### Tasks
 - [ ] Study ERP implementations specific to mining and resource sectors
 - [ ] Learn how ERP supports environmental compliance tracking
 - [ ] Understand safety management system integration in ERP
 - [ ] Review permit and license management through ERP systems
 - [ ] Explore production tracking and regulatory reporting
 
-**Resources:**
+### Readings for Today
+| Resource | Type | Time | Link/Location |
+|----------|------|------|---------------|
+| ERP in Australian Mining - Case Studies | Case Study | 2 hrs | Search vendor websites and industry publications |
+| Environmental Management in ERP | Article | 1 hr | Search ERP Focus or similar publications |
+| Mining Industry Digital Transformation | Report | 1 hr | [McKinsey Mining Insights](https://www.mckinsey.com/industries/metals-and-mining) |
+
+### Resources for Today
 - Case studies on ERP in Australian mining companies
 - WA resource sector ERP implementation articles
 - Environmental management module guides
 
-**Deliverable:** Summary of ERP compliance use cases in resource sector
+### Resource Sector ERP Use Cases
+1. **Environmental Compliance:**
+   - Emissions tracking and reporting
+   - Water usage monitoring
+   - Waste management documentation
+   - Environmental permit management
+
+2. **Safety Management:**
+   - Incident reporting and investigation
+   - Safety inspection tracking
+   - Training compliance monitoring
+   - Equipment maintenance safety checks
+
+3. **Regulatory Reporting:**
+   - Production reporting to regulators
+   - Royalty calculations and payments
+   - Compliance certificate management
+   - Audit trail documentation
+
+### Practice Exercise
+Select one compliance area (environmental, safety, or regulatory) and outline how ERP modules could support compliance activities for a mid-size mining operation in WA.
+
+### Deliverable for Today
+✅ Summary of ERP compliance use cases in resource sector saved to `resources/week-17-notes/day-03-resource-sector-use-cases.md`
 
 ---
 
-### Day 4: Hands-On ERP Practice
+## Day 4: Hands-On ERP Practice
 
 **Time Allocation:** 3-4 hours
 
-**Tasks:**
-- [ ] Access one of the free ERP learning environments (see access guide below)
+### Tasks
+- [ ] Access one of the free ERP learning environments (see guide below)
 - [ ] Complete introductory ERP navigation exercises
 - [ ] Explore compliance-related screens and reports
 - [ ] Practice navigating through menu structures
 - [ ] Document your ERP navigation experience
 
-**Free ERP Learning Environment Access Guide:**
-1. **SAP Learning Hub (Free Tier):** Register at learning.sap.com with a free account. Access available free learning journeys for ERP basics and navigation exercises.
-2. **Microsoft Dynamics 365 Trial:** Sign up for a free 30-day trial at dynamics.microsoft.com/try. No credit card required for evaluation.
-3. **Alternative - YouTube Demonstrations:** If direct access is unavailable, use detailed walkthrough videos on YouTube (search "SAP GRC demo" or "Dynamics 365 compliance tour") to observe ERP navigation and document key observations.
+### Free ERP Learning Environment Access Guide
 
-**Resources:**
-- [SAP Learning Hub Free Registration](https://learning.sap.com/)
-- [Microsoft Dynamics 365 Free Trial](https://dynamics.microsoft.com/en-au/free-trial/)
-- ERPSim (educational ERP simulation - check if available through university partnerships)
+#### Option 1: SAP Learning Hub (Free Tier)
+1. Register at [learning.sap.com](https://learning.sap.com/) with a free account
+2. Access available free learning journeys
+3. Complete "SAP Navigation Basics" exercises
+4. Explore demo scenarios if available
 
-**Deliverable:** Screenshots and documentation of ERP navigation exercises (or detailed notes from video demonstrations if direct access unavailable)
+#### Option 2: Microsoft Dynamics 365 Trial
+1. Sign up for free 30-day trial at [dynamics.microsoft.com/try](https://dynamics.microsoft.com/en-au/free-trial/)
+2. No credit card required for evaluation
+3. Follow guided tours and demos
+4. Explore compliance and reporting features
+
+#### Option 3: YouTube Demonstrations (Alternative)
+If direct access is unavailable:
+1. Search "SAP GRC demo walkthrough"
+2. Search "Dynamics 365 compliance tour"
+3. Search "Oracle Risk Management Cloud demo"
+4. Take detailed notes on navigation and features
+
+### Navigation Exercises
+1. **Menu Navigation:** Locate compliance-related menu items
+2. **Report Access:** Find compliance reports and dashboards
+3. **User Management:** Understand role and permission screens
+4. **Audit Trails:** Locate audit log and change history features
+5. **Workflow Monitoring:** Find workflow approval queues
+
+### Course Module for Today
+**Course:** SAP ERP Essential Training (LinkedIn Learning)
+- [ ] Module 1: ERP Fundamentals (45 mins)
+- [ ] Module 2: SAP Navigation Basics (60 mins)
+
+### Deliverable for Today
+✅ Screenshots and documentation of ERP navigation exercises saved to `resources/week-17-notes/day-04-navigation-screenshots/`
+
+OR (if no direct access):
+✅ Detailed notes from video demonstrations saved to `resources/week-17-notes/day-04-video-demo-notes.md`
 
 ---
 
-### Day 5: Portfolio Project - Compliance Dashboard Design
+## Day 5: Portfolio Project - Compliance Dashboard Design
 
 **Time Allocation:** 4-5 hours
 
-**Tasks:**
-- [ ] Design a compliance monitoring dashboard specification
-- [ ] Define key compliance KPIs for resource sector organizations
-- [ ] Create wireframes for compliance dashboard layouts
-- [ ] Document data sources and ERP integration points
-- [ ] Develop dashboard mockup using Excel or visualization tools
+### Project Overview
+Design a comprehensive compliance dashboard specification for a mid-size WA mining company.
 
-**Resources:**
-- Compliance dashboard design guides
-- ERP reporting and analytics documentation
-- Sample compliance KPI frameworks
-
-**Deliverable:** Compliance dashboard design document saved to `artifacts/dashboards/week-17-erp-compliance-dashboard-design.md`
-
----
-
-### Day 6: Portfolio Project - ERP Implementation Business Case
-
-**Time Allocation:** 3-4 hours
-
-**Tasks:**
-- [ ] Research ERP implementation considerations for mid-size mining companies
-- [ ] Develop a business case for GRC module implementation
-- [ ] Include ROI analysis, risk assessment, and timeline estimates
-- [ ] Address change management and training requirements
-- [ ] Create executive summary presentation materials
-
-**Resources:**
-- ERP business case templates
-- Implementation cost benchmarks
-- Change management frameworks
-
-**Deliverable:** ERP GRC implementation business case saved to `artifacts/case-studies/week-17-erp-implementation-business-case.md`
-
----
-
-### Day 7: Review and Portfolio Consolidation
-
-**Time Allocation:** 2-3 hours
-
-**Tasks:**
-- [ ] Review all ERP learning materials and notes
-- [ ] Organize portfolio artifacts for presentation
-- [ ] Write reflective journal entry on ERP learnings
-- [ ] Update LinkedIn profile with ERP skills and projects
-- [ ] Plan for continued ERP learning and certification
-
-**Deliverable:** Weekly reflection journal and updated portfolio summary
-
----
-
-## Readings & Resources
-
-### Essential Reading
-
-| Resource | Type | Time | Priority | Link |
-|----------|------|------|----------|------|
-| SAP Learning Journey: Discover SAP | Guide | 2 hrs | High | [learning.sap.com](https://learning.sap.com/learning-journeys/discover-sap) |
-| Oracle Cloud GRC Product Tour | Documentation | 1-2 hrs | High | [oracle.com/grc](https://www.oracle.com/au/erp/risk-management/) |
-| Mining Sector ERP Case Studies | Article | 1 hr | High | Search vendor case study libraries |
-| Dynamics 365 Finance Compliance | Guide | 1 hr | Medium | [Microsoft Learn](https://learn.microsoft.com/en-us/dynamics365/finance/) |
-
-### Supplementary Reading
-
-| Resource | Type | Time | Priority | Link |
-|----------|------|------|----------|------|
-| COBIT 2019 Framework Introduction | Framework | 2 hrs | Medium | [isaca.org](https://www.isaca.org/resources/cobit) |
-| ERP Security Best Practices | Article | 1 hr | Medium | Search on ERP Focus or Gartner |
-| Digital Transformation in Mining | Article | 1 hr | Medium | [McKinsey Mining Insights](https://www.mckinsey.com/industries/metals-and-mining) |
-
-### Online Resources
-
-- [SAP Learning Hub](https://learning.sap.com/)
-- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
-- [Microsoft Learn - Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/)
-- [ERP Focus](https://www.erpfocus.com/)
-
----
-
-## Courses
-
-### Primary Course
-
-**Course:** SAP ERP Essential Training  
-**Platform:** LinkedIn Learning / SAP Learning Hub  
-**Duration:** 4-6 hours  
-**Status:** [ ] Not Started / [ ] In Progress / [ ] Completed
-
-**Modules to Complete This Week:**
-- [ ] Module 1: ERP Fundamentals
-- [ ] Module 2: SAP Navigation Basics
-- [ ] Module 3: Compliance and Control Modules
-
-### Supplementary Learning
-
-- [ ] Microsoft Dynamics 365 Fundamentals (free learning path)
-- [ ] YouTube: ERP for Compliance Professionals (2-3 hours)
-- [ ] Vendor webinars on GRC solutions
-
----
-
-## Practical Projects
-
-### Project 1: ERP Compliance Dashboard Design
-
-**Objective:** Create a comprehensive compliance dashboard design document that demonstrates understanding of ERP data, compliance metrics, and visualization best practices
-
-**Scenario:** You are advising a mid-size WA mining company on designing a compliance monitoring dashboard that integrates with their ERP system. The company needs to track:
+### Scenario
+You are advising a mid-size WA mining company on designing a compliance monitoring dashboard that integrates with their ERP system. The company needs to track:
 - Environmental permit compliance status
 - Safety incident metrics and trends
 - Regulatory reporting deadlines
 - Training compliance rates
 - Audit findings and remediation status
 
-**Requirements:**
-1. Define at least 10 compliance KPIs with:
-   - KPI name and description
-   - Data source (conceptual ERP module, e.g., "Environmental Management Module" or "Safety Incident Database")
-   - Calculation methodology (how to derive the metric)
-   - Target/threshold values (industry benchmarks or reasonable targets)
-   - Alert triggers (when should action be taken)
+### Tasks for Today
+- [ ] Define at least 10 compliance KPIs
+- [ ] Create dashboard wireframes
+- [ ] Document data sources and integration points
+- [ ] Develop dashboard mockup using Excel or visualization tools
 
-   *Note: You do not need access to actual ERP database tables. Use conceptual data sources based on understanding of ERP module functions.*
+### KPI Framework Template
+For each KPI, document:
+1. **KPI Name:** Clear, descriptive name
+2. **Description:** What it measures and why it matters
+3. **Data Source:** Conceptual ERP module (e.g., "Environmental Management Module")
+4. **Calculation Method:** How to derive the metric
+5. **Target/Threshold:** Acceptable ranges or targets
+6. **Alert Triggers:** When action should be taken
 
-2. Create dashboard wireframes showing:
-   - Executive summary view
-   - Detailed compliance status view
-   - Trend analysis view
-   - Drill-down capabilities
+### Example KPIs to Consider
+- Environmental permit compliance rate (%)
+- Days until regulatory report deadline
+- Safety incident frequency rate
+- Training compliance by department (%)
+- Open audit findings by severity
+- Time to close compliance issues (days)
+- Regulatory inspection pass rate (%)
 
-3. Document ERP integration approach:
-   - Data extraction methods
-   - Refresh frequency
-   - Security considerations
+### Dashboard Views to Design
+1. **Executive Summary View:**
+   - High-level compliance status
+   - Key metrics at a glance
+   - Trend indicators
 
-**Deliverable Location:** `artifacts/dashboards/week-17-erp-compliance-dashboard-design.md`
+2. **Detailed Compliance View:**
+   - By compliance area
+   - By department or site
+   - Detailed metrics and charts
 
-**Portfolio Value:** Demonstrates ability to translate compliance requirements into technical specifications and shows understanding of ERP data structures.
+3. **Trend Analysis View:**
+   - Historical performance
+   - Predictive indicators
+   - Benchmarking
 
----
+### Resources for Today
+- Compliance dashboard design guides
+- ERP reporting and analytics documentation
+- Sample compliance KPI frameworks
 
-### Project 2: ERP GRC Implementation Business Case
+### Deliverable for Today
+✅ **Compliance dashboard design document saved to** `artifacts/dashboards/week-17-erp-compliance-dashboard-design.md`
 
-**Objective:** Develop a professional business case for implementing a GRC module within an existing ERP system
-
-**Scenario:** A WA resource company with an existing SAP S/4HANA implementation wants to evaluate adding SAP GRC (Governance, Risk, and Compliance) modules. As a compliance consultant, prepare a business case for the executive team.
-
-**Requirements:**
-1. Executive Summary (1 page)
-   - Problem statement
-   - Proposed solution
-   - Expected benefits
-   - Investment required
-
-2. Current State Analysis
-   - Existing compliance processes
-   - Pain points and inefficiencies
-   - Risk exposure from manual processes
-
-3. Proposed Solution
-   - GRC module components (Access Control, Process Control, Risk Management)
-   - Integration with existing SAP landscape
-   - Implementation approach
-
-4. Cost-Benefit Analysis
-   - Implementation costs (use industry benchmarks: software licensing typically $100,000-$500,000, consulting $200,000-$800,000 for mid-size implementations, training $20,000-$50,000)
-   - Ongoing operational costs (typically 15-20% of implementation cost annually)
-   - Quantified benefits (efficiency gains, risk reduction - use percentage estimates based on industry studies)
-   - ROI calculation and payback period (use simple ROI formula: ((Benefits - Costs) / Costs) × 100)
-   
-   *Cost Estimation Guidance:* 
-   - Research published case studies and analyst reports for benchmarks
-   - Clearly state assumptions and sources for estimates
-   - Present ranges rather than precise figures to reflect uncertainty
-   - Focus on demonstrating analytical thinking rather than precision
-
-5. Implementation Roadmap
-   - Phased approach timeline
-   - Resource requirements
-   - Key milestones
-
-6. Risk Assessment
-   - Implementation risks
-   - Mitigation strategies
-
-**Deliverable Location:** `artifacts/case-studies/week-17-erp-implementation-business-case.md`
-
-**Portfolio Value:** Demonstrates strategic thinking, business acumen, and ability to communicate technical solutions to executive stakeholders.
+**Document should include:**
+- KPI definitions table
+- Dashboard wireframes (can be hand-drawn and scanned, or created in Excel/PowerPoint)
+- Data integration approach
+- Security considerations
 
 ---
 
-### Project 3: ERP Access Control Matrix
+## Day 6: Portfolio Project - ERP Implementation Business Case
 
-**Objective:** Design a role-based access control (RBAC) matrix for compliance functions in an ERP system
+**Time Allocation:** 3-4 hours
 
-**Scenario:** Define access controls for compliance-related transactions and reports in an ERP system, ensuring segregation of duties and least privilege principles.
+### Project Overview
+Develop a professional business case for implementing GRC modules within an existing ERP system.
 
-**Requirements:**
-1. Identify key compliance roles:
-   - Compliance Officer
-   - Compliance Analyst
-   - Risk Manager
-   - Internal Auditor
-   - Compliance Administrator
+### Scenario
+A WA resource company with existing SAP S/4HANA implementation wants to evaluate adding SAP GRC (Governance, Risk, and Compliance) modules. As a compliance consultant, prepare a business case for the executive team.
 
-2. Map ERP transactions/reports to roles:
-   - Environmental compliance transactions
-   - Safety management transactions
-   - Audit management reports
-   - Regulatory reporting functions
+### Tasks for Today
+- [ ] Research ERP GRC implementation considerations
+- [ ] Develop executive summary
+- [ ] Analyze current state and pain points
+- [ ] Propose solution with cost-benefit analysis
+- [ ] Create implementation roadmap
 
-3. Document segregation of duties conflicts:
-   - Identify potential conflicts
-   - Define compensating controls
+### Business Case Structure
 
-**Deliverable Location:** `artifacts/compliance-checklists/week-17-erp-access-control-matrix.md`
+#### 1. Executive Summary (1 page)
+- Problem statement
+- Proposed solution
+- Expected benefits
+- Investment required
+- Recommendation
 
-**Portfolio Value:** Shows understanding of internal controls, security principles, and practical ERP administration concepts.
+#### 2. Current State Analysis
+- Existing compliance processes
+- Pain points and inefficiencies
+- Risk exposure from manual processes
+- Examples of compliance gaps
+
+#### 3. Proposed Solution
+- GRC module components:
+  - Access Control Module
+  - Process Control Module
+  - Risk Management Module
+- Integration with existing SAP landscape
+- Implementation approach
+
+#### 4. Cost-Benefit Analysis
+
+**Cost Estimation Guidance:**
+- Software licensing: $100,000-$500,000 (mid-size implementation)
+- Consulting services: $200,000-$800,000
+- Training: $20,000-$50,000
+- Ongoing support: 15-20% of implementation cost annually
+
+*Note: Use industry benchmarks from published case studies. State assumptions clearly.*
+
+**Benefit Quantification:**
+- Efficiency gains (e.g., 30% reduction in manual compliance tasks)
+- Risk reduction (e.g., reduced audit findings, fewer compliance violations)
+- Cost avoidance (e.g., avoided penalties, reduced audit preparation time)
+- ROI calculation: ((Benefits - Costs) / Costs) × 100
+
+#### 5. Implementation Roadmap
+- Phase 1: Planning and design (3 months)
+- Phase 2: Configuration and testing (4 months)
+- Phase 3: Deployment and training (2 months)
+- Phase 4: Optimization (ongoing)
+
+#### 6. Risk Assessment
+- Implementation risks and mitigation strategies
+- Change management considerations
+
+### Resources for Today
+- ERP business case templates
+- Implementation cost benchmarks from industry reports
+- Change management frameworks
+
+### Deliverable for Today
+✅ **ERP GRC implementation business case saved to** `artifacts/case-studies/week-17-erp-implementation-business-case.md`
 
 ---
 
-## Deliverables Checklist
+## Day 7: Review and Portfolio Consolidation
 
-| # | Deliverable | Location | Status |
-|---|------------|----------|--------|
-| 1 | ERP vocabulary glossary | `resources/week-17-notes/` | [ ] |
-| 2 | Vendor comparison summary | `resources/week-17-notes/` | [ ] |
-| 3 | GRC module feature matrix | `resources/week-17-notes/` | [ ] |
-| 4 | Compliance dashboard design | `artifacts/dashboards/` | [ ] |
-| 5 | ERP implementation business case | `artifacts/case-studies/` | [ ] |
-| 6 | Access control matrix | `artifacts/compliance-checklists/` | [ ] |
-| 7 | ERP navigation screenshots | `resources/week-17-notes/` | [ ] |
-| 8 | Weekly reflection journal | `resources/reflections/` | [ ] |
+**Time Allocation:** 2-3 hours
 
----
+### Tasks
+- [ ] Review all ERP learning materials and notes
+- [ ] Organize portfolio artifacts for presentation
+- [ ] Write reflective journal entry on ERP learnings
+- [ ] Update LinkedIn profile with ERP skills and projects
+- [ ] Plan for continued ERP learning and certification
+- [ ] Complete self-assessment
 
-## Assessment Criteria
+### Portfolio Review Checklist
+- [ ] All daily notes organized and saved
+- [ ] Compliance dashboard design complete and polished
+- [ ] Business case document complete and polished
+- [ ] Navigation screenshots/notes organized
+- [ ] Vocabulary glossary finalized
 
-### Self-Assessment Questions
+### LinkedIn Profile Updates
+Add skills:
+- Enterprise Resource Planning (ERP)
+- SAP GRC
+- Compliance Management Systems
+- Business Process Integration
+- ERP Dashboard Design
 
-1. Can I explain what an ERP system is and its key modules to a non-technical stakeholder?
-2. Can I describe how GRC modules support compliance functions?
-3. Can I navigate basic transactions in at least one ERP system?
-4. Can I articulate the value of ERP skills for compliance roles?
-5. Do I have portfolio artifacts that demonstrate practical ERP understanding?
+Add project descriptions:
+- ERP Compliance Dashboard Design for Mining Operations
+- GRC Module Implementation Business Case
 
-### Knowledge Check
+### Self-Assessment
 
+#### Knowledge Check
 - [ ] Define: ERP, GRC, Transaction Code, Business Process, Integration
 - [ ] Explain the relationship between ERP and compliance management
 - [ ] Describe 3 major ERP vendors and their GRC offerings
 - [ ] List 5 compliance use cases for ERP systems in resource sector
 - [ ] Explain segregation of duties in ERP context
 
----
+#### Skills Assessment (Rate 1-10)
+- Understanding of ERP fundamentals: ___
+- Knowledge of GRC modules: ___
+- Ability to design compliance dashboards: ___
+- Business case development skills: ___
+- Confidence explaining ERP value to hiring managers: ___
 
-## Reflection & Notes
-
-### Weekly Journal Prompts
-
+### Reflection Prompts
 1. How does ERP knowledge enhance my value as a compliance professional?
 2. What aspects of ERP systems were most surprising or challenging to learn?
 3. How would I explain the importance of ERP skills to a hiring manager?
 4. What specific ERP skills should I develop further?
 5. How do my portfolio artifacts demonstrate practical ERP competency?
 
-### Space for Notes
+### Interview Preparation - Key Talking Points
 
-```
-Date: _______________
+**"How does ERP support compliance?"**
+"ERP systems centralize compliance data and automate workflows. For example, GRC modules can manage access controls, track compliance tasks, maintain audit trails, and generate regulatory reports—all integrated with operational data."
 
-Key Takeaways:
--
--
--
+**"What ERP experience do you have?"**
+"I've studied SAP, Oracle, and Microsoft Dynamics platforms, focusing on GRC modules. I've designed a compliance dashboard specification and developed an implementation business case that demonstrates how to integrate compliance requirements with ERP systems."
 
-Questions for Further Research:
--
--
+**"Why is ERP knowledge important for compliance roles?"**
+"Most large organizations use ERP systems as their operational backbone. Understanding how compliance controls integrate with ERP enables me to design better solutions, communicate effectively with IT teams, and leverage technology to improve compliance efficiency."
 
-Areas for Improvement:
--
--
+### Deliverable for Today
+✅ Weekly reflection journal saved to `resources/reflections/week-17-reflection.md`
 
-Confidence Level (1-10): ___
+✅ Updated LinkedIn profile (take screenshot for documentation)
 
-Plan for Continued Learning:
--
-```
+### Preparation for Continued Learning
 
----
-
-## Interview Talking Points
-
-### Key Messages for Hiring Managers
-
-1. **ERP Integration Understanding:** "I understand how compliance processes integrate with ERP systems and can help bridge the gap between compliance requirements and technical implementation."
-
-2. **Practical Portfolio Evidence:** "I've developed practical artifacts including dashboard designs, business cases, and access control matrices that demonstrate my ability to translate compliance needs into actionable specifications."
-
-3. **Vendor Awareness:** "I'm familiar with major ERP platforms including SAP, Oracle, and Microsoft Dynamics, and understand how their GRC modules support compliance functions."
-
-4. **Business Value Focus:** "I can articulate the ROI of compliance technology investments and develop business cases that resonate with executive stakeholders."
-
-### Sample Interview Questions to Prepare
-
-- "How would you integrate compliance monitoring with an ERP system?"
-- "What experience do you have with ERP GRC modules?"
-- "How would you approach designing compliance dashboards for executive reporting?"
-- "Describe how you would evaluate an ERP vendor for compliance needs."
-
----
-
-## Preparation for Continued Learning
-
-**Next Steps for ERP Skills Development:**
-
+**Next Steps:**
 1. **Certifications to Consider:**
    - SAP Certified Application Associate
    - Oracle Cloud Infrastructure Foundations
@@ -446,23 +440,39 @@ Plan for Continued Learning:
 
 ---
 
-## Additional Tips for Success
+## Weekly Deliverables Summary
 
-1. **Hands-On Practice:** Use free trial environments to gain practical experience
-2. **Network:** Connect with ERP professionals on LinkedIn
-3. **Stay Current:** Follow ERP vendor blogs and release notes
-4. **Document Everything:** Build a portfolio of your ERP work for interviews
-5. **Bridge Technical and Business:** Practice explaining ERP concepts to non-technical audiences
+| # | Deliverable | Location | Due Day |
+|---|------------|----------|---------|
+| 1 | ERP vocabulary glossary and vendor comparison | `resources/week-17-notes/` | Day 1 |
+| 2 | GRC module feature comparison matrix | `resources/week-17-notes/` | Day 2 |
+| 3 | Resource sector use cases summary | `resources/week-17-notes/` | Day 3 |
+| 4 | ERP navigation screenshots or video notes | `resources/week-17-notes/` | Day 4 |
+| 5 | Compliance dashboard design document | `artifacts/dashboards/` | Day 5 |
+| 6 | ERP GRC implementation business case | `artifacts/case-studies/` | Day 6 |
+| 7 | Weekly reflection journal | `resources/reflections/` | Day 7 |
 
 ---
 
-## Resources Quick Links
+## Quick Reference Links
 
 - [SAP Learning Hub](https://learning.sap.com/)
-- [Oracle Cloud Learning](https://www.oracle.com/cloud/free/)
-- [Microsoft Learn](https://learn.microsoft.com/)
-- [ERP Today](https://erp.today/)
+- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/)
+- [Microsoft Learn - Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/)
+- [ERP Focus](https://www.erpfocus.com/)
+- [McKinsey Mining Insights](https://www.mckinsey.com/industries/metals-and-mining)
 - [ASUG (Americas' SAP Users' Group)](https://www.asug.com/)
+
+---
+
+## Tips for Success
+
+1. **One Day at a Time:** Focus on completing each day's tasks fully before moving to the next day
+2. **Portfolio Focus:** These artifacts will be shown to hiring managers—make them polished and professional
+3. **Conceptual Understanding:** You don't need hands-on system access to demonstrate ERP knowledge—focus on concepts and specifications
+4. **Business Language:** Practice explaining technical ERP concepts in business terms
+5. **Real-World Examples:** Reference actual mining companies and their ERP implementations when possible
+6. **Document Everything:** Keep detailed notes on your learning process for portfolio documentation
 
 ---
 
